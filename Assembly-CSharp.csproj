@@ -46,6 +46,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\FlipScrollDir.cs" />
      <Compile Include="Assets\Scripts\Global.cs" />
      <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
      <Compile Include="Assets\Scripts\Tiles.cs" />
@@ -54,6 +55,10 @@
      <Compile Include="Assets\Scripts\Trading\Catalog.cs" />
      <Compile Include="Assets\Scripts\Trading\Item.cs" />
      <Compile Include="Assets\Scripts\Trading\Store.cs" />
+     <Compile Include="Assets\Scripts\UI\DraggableWindow.cs" />
+     <Compile Include="Assets\Scripts\UI\GoldInterface.cs" />
+     <Compile Include="Assets\Scripts\UI\InventoryItem.cs" />
+     <Compile Include="Assets\Scripts\UI\InventoryWindow.cs" />
      <Compile Include="Assets\Scripts\UI\ItemInterface.cs" />
      <Compile Include="Assets\Scripts\UI\TradeWindow.cs" />
      <Compile Include="Assets\Scripts\UI\UI.cs" />

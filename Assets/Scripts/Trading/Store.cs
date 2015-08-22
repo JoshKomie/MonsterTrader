@@ -12,6 +12,7 @@ public class Store
 	
 	public Store ()
 	{
+		//Debug.Log ("cons called");
 		AbstractItem item = Catalog.RandomItem();
 		forSale = new List<Item>();	
 		
@@ -23,19 +24,30 @@ public class Store
 	
 	
 	
-	public void BuyAt(int position)
+	public Item BuyAt(int position)
 	{
+	//	Debug.Log ("Calling buy at");
+		Item item;
 		if (forSale == null)
-			return;
-		if (forSale[position].Quantity == 1)
+			return null;
+		item = new Item(forSale[position]);
+		if (forSale[position].Quantity == 0)
 		{
-			forSale.Remove(forSale[position]);
+			//forSale.Remove(forSale[position]);
 		}
 		else
 		{
+//			Debug.Log ("subbing " + forSale[position].Quantity);
+			
 			forSale[position].Quantity--;
+//			Debug.Log ("subbing " + forSale[position].Quantity);
 		}
+		return item;
 	}
+	
+	
+	
+	
 
 	public List<Item> ForSale {
 		get {

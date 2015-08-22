@@ -15,6 +15,13 @@ public class Item
 		this.price = price;
 	}
 	
+	public Item(Item old)
+	{
+		name = old.name;
+		quantity = old.quantity;
+		price = old.price;
+	}
+	
 	public override bool Equals (object obj)
 	{
 		if (obj == null)
