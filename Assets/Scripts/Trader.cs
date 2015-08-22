@@ -48,6 +48,49 @@ public class Trader : MonoBehaviour
 		Gold -= item.Price;
 		//Debug.Log (inventory.Count);
 	}
+	public void TakeItemByPrice(Item item)
+	{
+		if (inventory.Contains(item))
+		{
+			int index = inventory.FindIndex(item.Equals);
+			inventory[index].Quantity -= 1;	
+			removeZeroQuantities();
+			updateInventory();
+		}
+		
+	}
+	public void TakeItem(Item item)
+	{
+		foreach (Item i in inventory)
+		{
+			if (i.Name == item.Name)
+			{
+				int index = inventory.FindIndex(item.EqualsByName);
+				inventory[index].Quantity -= 1;	
+				
+				//updateInventory();
+			}
+		}
+		updateInventory();
+		removeZeroQuantities();
+		
+	}
+	
+	private void removeZeroQuantities()
+	{
+		List<Item> itemsToRemove = new List<Item>();
+		foreach (Item i in inventory)
+		{
+			if (i.Quantity == 0)
+				itemsToRemove.Add(i);
+		}
+		foreach (Item r in itemsToRemove)
+		{
+			inventory.Remove(r);
+		}
+	}
+	
+	
 	
 	private void movement()
 	{
@@ -103,6 +146,7 @@ public class Trader : MonoBehaviour
 	{
 		pos = new Pair(transform.position.x, transform.position.y);
 		isOverTile = Global.Tiles.TileAt(pos);
+		//handle store stuff
 		switch (isOverTile)
 		{
 			case Tiles.STORE:
@@ -114,11 +158,30 @@ public class Trader : MonoBehaviour
 				UI.SetTradeWindowVis(false);
 				break;
 		}
+		
+		//handle encounters
+		switch (isOverTile)
+		{
+			case Tiles.FOREST:
+				if (Random.value < Tiles.FOREST_CHANCE)
+				{
+					UI.InitiateEncounter(AdventurerIndex.RandomForest());
+				}
+				break;
+		}
 	}
 	
 	
 	
-	
+	public bool Has(Item i)
+	{
+		foreach (Item item in inventory)
+		{
+			if (i.Name == item.Name)
+				return true;
+		}
+		return false;
+	}
 	
 	public int Gold {
 		get {

@@ -8,11 +8,11 @@ public class Store
 	
 	
 	private List<Item> forSale;
-	
+	private List<Item> buying;
 	
 	public Store ()
 	{
-		//Debug.Log ("cons called");
+		Debug.Log ("cons called");
 		AbstractItem item = Catalog.RandomItem();
 		forSale = new List<Item>();	
 		
@@ -20,6 +20,10 @@ public class Store
 		
 		item = Catalog.RandomItem();
 		forSale.Add(new Item(item.Name, Random.Range(1, 5), Random.Range(item.PriceRange.X, item.PriceRange.Y)));
+		
+		buying = new List<Item>();
+		item = Catalog.RandomItem();
+		buying.Add(new Item(item.Name, 0, Random.Range(item.PriceRange.X, item.PriceRange.Y)));
 	}
 	
 	
@@ -45,6 +49,11 @@ public class Store
 		return item;
 	}
 	
+	public int SellAt(int position)
+	{
+		return buying[position].Price;
+	}
+	
 	
 	
 	
@@ -52,6 +61,12 @@ public class Store
 	public List<Item> ForSale {
 		get {
 			return forSale;
+		}
+	}
+
+	public List<Item> Buying {
+		get {
+			return buying;
 		}
 	}
 }

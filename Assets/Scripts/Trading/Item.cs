@@ -34,6 +34,11 @@ public class Item
 		return name == other.name && price == other.price;
 	}
 	
+	public bool EqualsByName(Item item)
+	{
+		return name == item.name;
+	}
+	
 
 	public override int GetHashCode ()
 	{

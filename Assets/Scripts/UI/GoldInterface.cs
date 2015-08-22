@@ -6,14 +6,14 @@ using System.Collections.Generic;
 public class GoldInterface : MonoBehaviour 
 {
 	private Text text;
-	public void Start()
-	{
-		text = transform.FindChild("Text").GetComponent<Text>();
-		
-	}
+	
 	
 	public void ValueChanged(int newVal)
 	{
+		if (text == null)
+		{
+			text = transform.FindChild("Text").GetComponent<Text>();
+		}
 		text.text = newVal.ToString();
 	}
 }

@@ -20,6 +20,10 @@ public class Tiles : MonoBehaviour
 	public const ushort MOUNTAINS = 2;
 	public const ushort STORE = 3;
 	
+	public const float FOREST_CHANCE = .5f;
+	public const float MOUNTAIN_CHANCE = .3f;
+	
+	
 	private Dictionary<Pair, Store> stores;
 	private ushort[,] tileMap;
 	

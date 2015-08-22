@@ -14,7 +14,13 @@ public class ItemInterface : MonoBehaviour
 		this.item = item;
 		this.parentWindow = parentWindow;
 		name = transform.FindChild("Item Name").GetComponent<Text>();
-		quantity = transform.FindChild("Quantity").GetComponent<Text>();
+		
+		Transform q = transform.FindChild("Quantity");
+		if (q != null)
+		{
+			quantity = q.GetComponent<Text>();
+		}
+		
 		price = transform.FindChild("Price").GetComponent<Text>();
 		updateText();
 		this.index = index;
@@ -35,10 +41,27 @@ public class ItemInterface : MonoBehaviour
 		
 	}
 	
+	public void Sell()
+	{
+		if (Global.Player.Has(item))
+		{
+			Global.Player.Gold += parentWindow.SellAt(index);
+			Global.Player.TakeItem(item);
+		}
+		else
+		{
+			Debug.Log ("player doesnt have item");
+		}
+	}
+	
 	private void updateText()
 	{
 		name.text = item.Name;
-		quantity.text = item.Quantity.ToString();
+		if (quantity != null)
+		{
+			quantity.text = item.Quantity.ToString();
+		}
+		
 		price.text = item.Price.ToString();
 	}
 }

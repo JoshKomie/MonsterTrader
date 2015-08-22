@@ -8,6 +8,7 @@ public class UI : MonoBehaviour
 	private static GameObject tradeWindow;
 	private static GameObject tradeMessage;
 	private static GameObject inventoryWindow;
+	private static GameObject encounterWindow;
 	private static bool tradeMessageUp;
 	private static bool hasReferences = false;
 	
@@ -30,10 +31,12 @@ public class UI : MonoBehaviour
 		tradeWindow = transform.FindChild("BuySellPanel").gameObject;
 		tradeMessage = transform.FindChild("TradeMessage").gameObject;
 		inventoryWindow = transform.FindChild("InventoryWindow").gameObject;
+		encounterWindow = transform.FindChild("Encounter").gameObject;
 		
 		SetTradeMessageVis(false);
 		SetTradeWindowVis(false);
 		SetInventoryWindowVis(false);
+		SetEncounterWindowVis(false);
 		hasReferences = true;
 	}
 	public static void SetTradeMessageVis(bool target)
@@ -60,6 +63,18 @@ public class UI : MonoBehaviour
 	public static void SetInventoryWindowVis(bool target)
 	{
 		inventoryWindow.SetActive(target);
+	}
+	
+	public static void SetEncounterWindowVis(bool target)
+	{
+		encounterWindow.SetActive(target);
+	}
+	
+	public static void InitiateEncounter(AdventurerGroup group)
+	{
+		SetEncounterWindowVis(true);
+		encounterWindow.GetComponent<EncounterWindow>().SetMainText("You encounter a " + group.Name + ".");
+		encounterWindow.GetComponent<EncounterWindow>().SetFollowUpText("What would you like to do?");
 	}
 	
 	public static void ShowTradeWindow(Store store)
