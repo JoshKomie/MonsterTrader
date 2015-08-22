@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="plans.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#4c7836"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="5448.4696"
+     inkscape:cy="-1267.2521"
+     inkscape:document-units="pt"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="pt"
+     showborder="false"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ff6600;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1498,316.8622 c 0.5,-3 5,-27 7.5,-30.00002 2.5,-3 9,-12 11.5,-11.5 2.5,0.5 17.5,3.5 17.5,3.5 0,0 5.5,13.00002 6,17.00002 0.5,4 3.5,23.5 3.5,23.5 0,0 -8.5,7 -8.5,10 0,3 3,32 3,32 l 7.5,-13 5.5,2.5 c 0,0 32,56.5 31.5,62 -0.5,5.5 3,99.5 3,99.5 0,0 -13.5,-47.5 -14,-54 -0.5,-6.5 -29.5,-29 -29.5,-29 l -11,27.5 -8.5,49 c 0,0 19,24.5 18.5,29 -0.5,4.5 2.5,45.5 -6.5,51 -9,5.5 -87.5,25.5 -87.5,25.5 0,0 40.5,-34.5 41,-40.5 0.5,-6 10.5,-29.5 4,-37 -6.5,-7.5 -15.5,-22 -17.5,-30.5 -2,-8.5 1.5,-43.5 1.5,-43.5 0,0 -3.5,-41.5 -7,-39 -3.5,2.5 -38,32 -38.5,37.5 -0.5,5.5 9.5,65 9.5,65 l -36.5,-81.5 c 0,0 37,-69.5 38,-72.5 1,-3 12,-32.5 12,-32.5 0,0 17,11 17,13 0,2 24,17.5 24,17.5 l 8.5,-41 z"
+       id="path2982"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#c66f39;fill-opacity:1;stroke:#000000;stroke-width:1.87500000000000000;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2984"
+       width="524"
+       height="386"
+       x="-1310"
+       y="-287.63782" />
+    <text
+       xml:space="preserve"
+       style="font-size:50.9409256px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="-690.61041"
+       y="-511.8483"
+       id="text3754"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3756"
+         x="-690.61041"
+         y="-511.8483">goal to pass a level? get x amount of treasure</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:1.87500000000000000;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3758"
+       width="3637.3572"
+       height="2845.3977"
+       x="-1957.2716"
+       y="-1046.3307" />
+    <path
+       style="fill:#c66f39;fill-opacity:1;stroke:#000000;stroke-width:1.27822876;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 1237.7017,1472.0638 174.2984,-176 178.2983,176 0,266.5968 -352.5967,0 z"
+       id="rect3760"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 392,592.3622 c 0,-24.00002 140,-260.00002 140,-260.00002 0,0 196,244 160,244 -36,0 -300,16.00002 -300,16.00002 z"
+       id="path3762"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3764"
+       d="m 396,868.3622 c 0,-24.00002 140,-260.00002 140,-260.00002 0,0 196,244 160,244 -36,0 -300,16.00002 -300,16.00002 z"
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 408,1160.3622 c 0,-24 140,-260.00002 140,-260.00002 0,0 196,244.00002 160,244.00002 -36,0 -300,16 -300,16 z"
+       id="path3766"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3768"
+       d="m 412,1424.3622 c 0,-24 140,-260 140,-260 0,0 196,244 160,244 -36,0 -300,16 -300,16 z"
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 728,584.3622 c 0,-24 140,-260 140,-260 0,0 196,244 160,244 -36,0 -300,16 -300,16 z"
+       id="path3770"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3772"
+       d="m 720,848.3622 c 0,-24 140,-260 140,-260 0,0 196,244 160,244 -36,0 -300,16 -300,16 z"
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1064,568.3622 c 0,-24 140,-260 140,-260 0,0 196,244 160,244 -36,0 -300,16 -300,16 z"
+       id="path3774"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#1e591e;fill-opacity:1;stroke:#0000ff;stroke-width:1.875;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3776"
+       width="288"
+       height="296"
+       x="44"
+       y="888.36218" />
+    <rect
+       y="584.36218"
+       x="44"
+       height="296"
+       width="288"
+       id="rect3778"
+       style="fill:#1e591e;fill-opacity:1;stroke:#0000ff;stroke-width:1.875;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       style="fill:#1e591e;fill-opacity:1;stroke:#0000ff;stroke-width:1.875;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3780"
+       width="288"
+       height="296"
+       x="52"
+       y="292.36218" />
+    <text
+       xml:space="preserve"
+       style="font-size:116.63673401px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="-781.53778"
+       y="-171.05312"
+       id="text3782"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3784"
+         x="-781.53778"
+         y="-171.05312">buying 5 steel helm @ 200 gold</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:88.8888855px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="-761.75"
+       y="-58.165592"
+       id="text3786"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3788"
+         x="-761.75"
+         y="-58.165592">selling 2 iron ore @ 24 gold</tspan></text>
+    <g
+       id="g3809"
+       transform="translate(604,-36)">
+      <path
+         transform="translate(276,-12)"
+         d="m 548,132.36218 c 0,26.50967 -25.07205,48 -56,48 -30.92795,0 -56,-21.49033 -56,-48 0,-26.50967 25.07205,-47.999997 56,-47.999997 30.92795,0 56,21.490327 56,47.999997 z"
+         sodipodi:ry="48"
+         sodipodi:rx="56"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="492"
+         id="path3803"
+         style="fill:#c8905d;fill-opacity:1;stroke:#0000ff;stroke-width:1.875;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#c8905d;fill-opacity:1;stroke:#0000ff;stroke-width:1.875;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path3805"
+         sodipodi:cx="492"
+         sodipodi:cy="132.36218"
+         sodipodi:rx="56"
+         sodipodi:ry="48"
+         d="m 548,132.36218 c 0,26.50967 -25.07205,48 -56,48 -30.92795,0 -56,-21.49033 -56,-48 0,-26.50967 25.07205,-47.999997 56,-47.999997 30.92795,0 56,21.490327 56,47.999997 z"
+         transform="translate(424,-12)" />
+      <path
+         transform="translate(352,108)"
+         d="m 548,132.36218 c 0,26.50967 -25.07205,48 -56,48 -30.92795,0 -56,-21.49033 -56,-48 0,-26.50967 25.07205,-47.999997 56,-47.999997 30.92795,0 56,21.490327 56,47.999997 z"
+         sodipodi:ry="48"
+         sodipodi:rx="56"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="492"
+         id="path3807"
+         style="fill:#c8905d;fill-opacity:1;stroke:#0000ff;stroke-width:1.875;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:68.18885803px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="1614.8867"
+       y="1554.744"
+       id="text3815"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3817"
+         x="1614.8867"
+         y="1554.744">selling 3 steel helm @ 150 gold</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:75.6545105px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="1703.2966"
+       y="148.14386"
+       id="text3819"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3821"
+         x="1703.2966"
+         y="148.14386">you are attacked by a company of dwarves. what do you do?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:125.76898956px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="1687.1301"
+       y="280.62857"
+       id="text3823"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3825"
+         x="1687.1301"
+         y="280.62857">fights</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:124.90820313px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="2112.0442"
+       y="344.7803"
+       id="text3827"
+       sodipodi:linespacing="125%"
+       transform="scale(0.79441203,1.2587926)"><tspan
+         sodipodi:role="line"
+         id="tspan3829"
+         x="2112.0442"
+         y="344.7803">give up x gold</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:88.23213959px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="1677.9681"
+       y="553.30072"
+       id="text3831"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3833"
+         x="1677.9681"
+         y="553.30072">attempt to flee</tspan></text>
+    <rect
+       y="572.36218"
+       x="-244"
+       height="296"
+       width="288"
+       id="rect3835"
+       style="fill:#1e591e;fill-opacity:1;stroke:#0000ff;stroke-width:1.875;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       style="fill:#1e591e;fill-opacity:1;stroke:#0000ff;stroke-width:1.875;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3837"
+       width="288"
+       height="296"
+       x="-244"
+       y="280.36218" />
+    <rect
+       y="556.36218"
+       x="-556"
+       height="296"
+       width="288"
+       id="rect3839"
+       style="fill:#1e591e;fill-opacity:1;stroke:#0000ff;stroke-width:1.875;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       style="fill:#1e591e;fill-opacity:1;stroke:#0000ff;stroke-width:1.875;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3841"
+       width="288"
+       height="296"
+       x="-860"
+       y="860.36218" />
+    <rect
+       y="552.36218"
+       x="-1164"
+       height="296"
+       width="288"
+       id="rect3843"
+       style="fill:#1e591e;fill-opacity:1;stroke:#0000ff;stroke-width:1.875;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       style="fill:#1e591e;fill-opacity:1;stroke:#0000ff;stroke-width:1.875;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3845"
+       width="288"
+       height="296"
+       x="-1452"
+       y="248.36218" />
+    <rect
+       y="-255.63782"
+       x="-3448"
+       height="296"
+       width="288"
+       id="rect3847"
+       style="fill:#1e591e;fill-opacity:1;stroke:#0000ff;stroke-width:1.875;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3849"
+       d="m -3524,844.3622 c 0,-24 140,-260 140,-260 0,0 196,244 160,244 -36,0 -300,16 -300,16 z"
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-size:223.53436279px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="-2988.3494"
+       y="-403.73932"
+       id="text3851"
+       sodipodi:linespacing="125%"
+       transform="scale(1.1042137,0.90562179)"><tspan
+         sodipodi:role="line"
+         id="tspan3853"
+         x="-2988.3494"
+         y="-403.73932">terrain</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:141.71177673px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="-4417.5962"
+       y="-28.707815"
+       id="text3855"
+       sodipodi:linespacing="125%"
+       transform="scale(0.72090132,1.3871524)"><tspan
+         sodipodi:role="line"
+         id="tspan3857"
+         x="-4417.5962"
+         y="-28.707815">forest - .5 movement</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:122.33547974px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="-4021.4893"
+       y="641.33362"
+       id="text3859"
+       sodipodi:linespacing="125%"
+       transform="scale(0.80277831,1.2456739)"><tspan
+         sodipodi:role="line"
+         id="tspan3861"
+         x="-4021.4893"
+         y="641.33362">mountain -.25 movement</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:130.90498352px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="-6333.4629"
+       y="176.99455"
+       id="text3863"
+       sodipodi:linespacing="125%"
+       transform="scale(0.72252164,1.3840416)"><tspan
+         sodipodi:role="line"
+         id="tspan3865"
+         x="-6333.4629"
+         y="176.99455">random events - wood elf attack, unicorn siting, troll encounter,</tspan><tspan
+         sodipodi:role="line"
+         x="-6333.4629"
+         y="340.62579"
+         id="tspan3867">dryad encounter,  </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:130.95275879px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="-4726.4263"
+       y="1123.1946"
+       id="text3869"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3871"
+         x="-4726.4263"
+         y="1123.1946">random events - mountain troll encounter, </tspan><tspan
+         sodipodi:role="line"
+         x="-4726.4263"
+         y="1286.8855"
+         id="tspan3873">dwarf trader encounter, mysterious old man encounter </tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:1.87500000000000000;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3875"
+       sodipodi:cx="-3326"
+       sodipodi:cy="1638.3622"
+       sodipodi:rx="182"
+       sodipodi:ry="210"
+       d="m -3144,1638.3622 a 182,210 0 1 1 -364,0 182,210 0 1 1 364,0 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:117.39356232px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="-3129.4622"
+       y="1701.7388"
+       id="text3877"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3879"
+         x="-3129.4622"
+         y="1701.7388">lake - .25 movement</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#333333;fill-opacity:1;stroke:#0000ff;stroke-width:1.87500000000000000;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3881"
+       sodipodi:cx="-3236"
+       sodipodi:cy="2332.3621"
+       sodipodi:rx="192"
+       sodipodi:ry="192"
+       d="m -3044,2332.3621 a 192,192 0 1 1 -384,0 192,192 0 1 1 384,0 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="-2944"
+       y="2324.3623"
+       id="text3883"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3885"
+         x="-2944"
+         y="2324.3623">dungeon - change to be injured, but also to find treasure</tspan></text>
+    <path
+       style="fill:#1a1a1a;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -3432,2856.3622 188,-264 212,284 z"
+       id="path3887"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="-2888"
+       y="2764.3623"
+       id="text3889"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3891"
+         x="-2888"
+         y="2764.3623">volcano - fire elemental</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="3592.1025"
+       y="-412.76306"
+       id="text3893"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3895"
+         x="3592.1025"
+         y="-412.76306">how to make money? trading between shops and encounters, </tspan><tspan
+         sodipodi:role="line"
+         x="3592.1025"
+         y="-232.76306"
+         id="tspan3897">winning in combat, and finding it in dungeon chests.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="-2712"
+       y="-4291.6377"
+       id="text3899"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3901"
+         x="-2712"
+         y="-4291.6377">classes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="-5968.3901"
+       y="-3770.6672"
+       id="text3903"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3905"
+         x="-5968.3901"
+         y="-3770.6672">dragon</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path3907"
+       d="m -5766.3902,-3642.1672 c 0.5,-3 5,-27 7.5,-30 2.5,-3 9,-12 11.5,-11.5 2.5,0.5 17.5,3.5 17.5,3.5 0,0 5.5,13 6,17 0.5,4 3.5,23.5 3.5,23.5 0,0 -8.5,7 -8.5,10 0,3 3,32 3,32 l 7.5,-13 5.5,2.5 c 0,0 32,56.5 31.5,62 -0.5,5.5 3,99.5 3,99.5 0,0 -13.5,-47.5 -14,-54 -0.5,-6.5 -29.5,-29 -29.5,-29 l -11,27.5 -8.5,49 c 0,0 19,24.5 18.5,29 -0.5,4.5 2.5,45.5 -6.5,51 -9,5.5 -87.5,25.5 -87.5,25.5 0,0 40.5,-34.5 41,-40.5 0.5,-6 10.5,-29.5 4,-37 -6.5,-7.5 -15.5,-22 -17.5,-30.5 -2,-8.5 1.5,-43.5 1.5,-43.5 0,0 -3.5,-41.5 -7,-39 -3.5,2.5 -38,32 -38.5,37.5 -0.5,5.5 9.5,65 9.5,65 l -36.5,-81.5 c 0,0 37,-69.5 38,-72.5 1,-3 12,-32.5 12,-32.5 0,0 17,11 17,13 0,2 24,17.5 24,17.5 l 8.5,-41 z"
+       style="fill:#ff6600;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="-6352.6475"
+       y="-3082.7983"
+       id="text3909"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3911"
+         x="-6352.6475"
+         y="-3082.7983">move: 4 spaces</tspan><tspan
+         sodipodi:role="line"
+         x="-6352.6475"
+         y="-2902.7983"
+         id="tspan3913">hp: 10</tspan><tspan
+         sodipodi:role="line"
+         x="-6352.6475"
+         y="-2722.7983"
+         id="tspan3915">attack: 3</tspan><tspan
+         sodipodi:role="line"
+         x="-6352.6475"
+         y="-2542.7983"
+         id="tspan3917">unlockable special attack: flight / fire breath</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="-2754.8879"
+       y="-3863.4441"
+       id="text3919"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3921"
+         x="-2754.8879"
+         y="-3863.4441">Demon</tspan></text>
+    <path
+       style="fill:#800000;stroke:#000000;stroke-width:0.38522658px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -2550.9953,-3730.2988 c 0,0 -53.2487,-25.7511 -51.7273,-22.6298 1.5214,3.1214 47.9238,40.5775 47.9238,40.5775 l 0.7607,23.4101 c 0,0 -23.5815,40.5774 -28.9064,39.7971 -5.3249,-0.7803 -47.1632,-2.341 -47.1632,-2.341 0,0 -70.7447,-32.7741 -74.5481,-32.7741 -3.8035,0 -37.2741,-0.7803 -37.2741,-0.7803 0,0 -74.5482,63.9875 -70.7447,63.2071 3.8034,-0.7803 73.0268,-28.8724 73.0268,-28.8724 l 82.9158,53.8432 73.0268,54.6235 -19.7781,91.2993 -13.6925,-1.5607 3.8035,10.9247 c 0,0 45.6417,7.023 45.6417,3.1213 0,-3.9016 38.0348,-133.4374 38.0348,-133.4374 0,0 -9.1284,142.8015 -2.2821,137.3391 6.8463,-5.4623 79.1124,-6.2427 71.5054,-17.1674 -7.6069,-10.9247 -7.6069,-21.069 -10.6497,-23.41 -3.0428,-2.341 -40.3169,5.4623 -40.3169,5.4623 l 9.1283,-74.1319 73.7875,-88.1779 58.5736,-10.1444 77.591,63.2072 -83.6766,-106.906 -116.3864,31.2134 -15.2139,-31.2134 5.3248,-25.7511 47.9239,-55.4038 -54.0094,32.7741 z"
+       id="path3923"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="-2992.4758"
+       y="-3173.3079"
+       id="text3925"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3927"
+         x="-2992.4758"
+         y="-3173.3079">move: 2 spaces</tspan><tspan
+         sodipodi:role="line"
+         x="-2992.4758"
+         y="-2993.3079"
+         id="tspan3929">hp: 8</tspan><tspan
+         sodipodi:role="line"
+         x="-2992.4758"
+         y="-2813.3079"
+         id="tspan3931">attack 6</tspan><tspan
+         sodipodi:role="line"
+         x="-2992.4758"
+         y="-2633.3079"
+         id="tspan3933">unlock : hellfire attack/ teleport move</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="-401.63666"
+       y="-3908.699"
+       id="text3935"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3937"
+         x="-401.63666"
+         y="-3908.699">Werewolf</tspan></text>
+    <path
+       style="fill:#4d4d4d;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -102.69639,-3614.3241 c 0,0 0,-66 3.999997,-76 4,-10 38,-70 38,-70 0,0 14,-4 24,-2 10,2 114,188 114,188 0,0 -62,-22 -56,-6 6,16 54,98 50,144 -4,46 -80,326 -66,316 14,-10 36,-48 36,-48 0,0 38,10 30,14 -8,4 -52,140 -74,136 -22,-4 -96,54 -111.999997,-6 -16,-60 -76,-174 -76,-174 l -4,-180 c 0,0 14,-14 18,2 4,16 64,186 64,186 0,0 33.999997,-44 31.999997,-56 -2,-12 -21.999997,-172 -35.999997,-196 -14,-24 27.999997,-126 10,-114 -18,12 -56,42 -56,42 z"
+       id="path3939"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="-469.51889"
+       y="-2799.9556"
+       id="text3941"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3943"
+         x="-469.51889"
+         y="-2799.9556">move: 6 spaces</tspan><tspan
+         sodipodi:role="line"
+         x="-469.51889"
+         y="-2619.9556"
+         id="tspan3945">hp: 7</tspan><tspan
+         sodipodi:role="line"
+         x="-469.51889"
+         y="-2439.9556"
+         id="tspan3947">attack: 5</tspan><tspan
+         sodipodi:role="line"
+         x="-469.51889"
+         y="-2259.9556"
+         id="tspan3949">unlockable special: Wolfmode </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="1120.0573"
+       y="-1821.3199"
+       id="text3951"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3953"
+         x="1120.0573"
+         y="-1821.3199">trader in debt - must pay up x amount ina certain amount of turns, otherwise you fail the level</tspan></text>
+    <rect
+       style="fill:#784421;fill-opacity:1;stroke:#0000ff;stroke-width:1.54059565;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect5476"
+       width="2608.3345"
+       height="2984.3345"
+       x="4231.833"
+       y="1620.1949" />
+    <rect
+       style="fill:#d08655;fill-opacity:1;stroke:none"
+       id="rect5482"
+       width="2358.9082"
+       height="972.97894"
+       x="4350.1211"
+       y="2047.9685" />
+    <text
+       transform="scale(0.92626968,1.0795992)"
+       sodipodi:linespacing="125%"
+       id="text5484"
+       y="1838.8806"
+       x="4710.1821"
+       style="font-size:359.98773193px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         y="1838.8806"
+         x="4710.1821"
+         id="tspan5486"
+         sodipodi:role="line">For sale</tspan></text>
+    <rect
+       y="3501.78"
+       x="4384.062"
+       height="972.97894"
+       width="2358.9082"
+       id="rect5488"
+       style="fill:#d08655;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:359.98773193px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="4728.5039"
+       y="3148.8237"
+       id="text5490"
+       sodipodi:linespacing="125%"
+       transform="scale(0.92626968,1.0795992)"><tspan
+         sodipodi:role="line"
+         id="tspan5492"
+         x="4728.5039"
+         y="3148.8237">Buying</tspan></text>
+    <path
+       style="fill:#4c2b15;fill-opacity:1;stroke:none"
+       d="M 6658.125 2047.9688 L 6658.125 2981.3438 L 4350.125 2981.3438 L 4350.125 3020.9375 L 6709.0312 3020.9375 L 6709.0312 2047.9688 L 6658.125 2047.9688 z "
+       id="rect5521" />
+    <path
+       id="path5527"
+       d="m 6692.0661,3501.7803 0,933.375 -2308,0 0,39.5937 2358.9062,0 0,-972.9687 -50.9062,0 z"
+       style="fill:#4c2b15;fill-opacity:1;stroke:none"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#b76832;fill-opacity:1;stroke:none"
+       id="rect5529"
+       width="2260.301"
+       height="108"
+       x="4377.959"
+       y="2063.7852" />
+    <rect
+       y="4492.3618"
+       x="6428"
+       height="108"
+       width="320"
+       id="rect5531"
+       style="fill:#4c2b15;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:111.01207733px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="4382.3838"
+       y="2152.7488"
+       id="text5533"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5535"
+         x="4382.3838"
+         y="2152.7488">Iron Helmet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:105.9173584px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="5643.4316"
+       y="2160.8271"
+       id="text5537"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5539"
+         x="5643.4316"
+         y="2160.8271">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:107.40935516px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="5943.8403"
+       y="2148.0627"
+       id="text5541"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5543"
+         x="5943.8403"
+         y="2148.0627">125 gold</tspan></text>
+    <rect
+       style="fill:#754320;fill-opacity:1;stroke:none"
+       id="rect5545"
+       width="254"
+       height="72"
+       x="6364"
+       y="2086.3621" />
+    <text
+       xml:space="preserve"
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="6394"
+       y="2152.3623"
+       id="text5547"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5549"
+         x="6394"
+         y="2152.3623">buy</tspan></text>
+    <rect
+       y="2213.7852"
+       x="4377.959"
+       height="108"
+       width="2260.301"
+       id="rect5551"
+       style="fill:#b76832;fill-opacity:1;stroke:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5553"
+       y="2302.7488"
+       x="4382.3838"
+       style="font-size:111.01207733px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         y="2302.7488"
+         x="4382.3838"
+         id="tspan5555"
+         sodipodi:role="line">Iron sword</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5557"
+       y="2310.8271"
+       x="5643.4316"
+       style="font-size:105.9173584px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         y="2310.8271"
+         x="5643.4316"
+         id="tspan5559"
+         sodipodi:role="line">6</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5561"
+       y="2298.0627"
+       x="5943.8403"
+       style="font-size:107.40935516px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         y="2298.0627"
+         x="5943.8403"
+         id="tspan5563"
+         sodipodi:role="line">125 gold</tspan></text>
+    <rect
+       y="2236.3621"
+       x="6364"
+       height="72"
+       width="254"
+       id="rect5565"
+       style="fill:#754320;fill-opacity:1;stroke:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5567"
+       y="2302.3623"
+       x="6394"
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         y="2302.3623"
+         x="6394"
+         id="tspan5569"
+         sodipodi:role="line">buy</tspan></text>
+    <rect
+       style="fill:#b76832;fill-opacity:1;stroke:none"
+       id="rect5571"
+       width="2260.301"
+       height="108"
+       x="4377.959"
+       y="2371.7852" />
+    <text
+       xml:space="preserve"
+       style="font-size:111.01207733px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="4382.3838"
+       y="2460.7488"
+       id="text5573"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5575"
+         x="4382.3838"
+         y="2460.7488">Iron Helmet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:105.9173584px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="5643.4316"
+       y="2468.8271"
+       id="text5577"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5579"
+         x="5643.4316"
+         y="2468.8271">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:107.40935516px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="5943.8403"
+       y="2456.0627"
+       id="text5581"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5583"
+         x="5943.8403"
+         y="2456.0627">125 gold</tspan></text>
+    <rect
+       style="fill:#754320;fill-opacity:1;stroke:none"
+       id="rect5585"
+       width="254"
+       height="72"
+       x="6364"
+       y="2394.3621" />
+    <text
+       xml:space="preserve"
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="6394"
+       y="2460.3623"
+       id="text5587"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5589"
+         x="6394"
+         y="2460.3623">buy</tspan></text>
+    <rect
+       y="2521.7852"
+       x="4377.959"
+       height="108"
+       width="2260.301"
+       id="rect5591"
+       style="fill:#b76832;fill-opacity:1;stroke:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5593"
+       y="2610.7488"
+       x="4382.3838"
+       style="font-size:111.01207733px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         y="2610.7488"
+         x="4382.3838"
+         id="tspan5595"
+         sodipodi:role="line">Iron Helmet</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5597"
+       y="2618.8271"
+       x="5643.4316"
+       style="font-size:105.9173584px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         y="2618.8271"
+         x="5643.4316"
+         id="tspan5599"
+         sodipodi:role="line">6</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5601"
+       y="2606.0627"
+       x="5943.8403"
+       style="font-size:107.40935516px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         y="2606.0627"
+         x="5943.8403"
+         id="tspan5603"
+         sodipodi:role="line">125 gold</tspan></text>
+    <rect
+       y="2544.3621"
+       x="6364"
+       height="72"
+       width="254"
+       id="rect5605"
+       style="fill:#754320;fill-opacity:1;stroke:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5607"
+       y="2610.3623"
+       x="6394"
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         y="2610.3623"
+         x="6394"
+         id="tspan5609"
+         sodipodi:role="line">buy</tspan></text>
+  </g>
+</svg>

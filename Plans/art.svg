@@ -1,0 +1,1211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 4">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5422">
+      <stop
+         style="stop-color:#b67649;stop-opacity:1;"
+         offset="0"
+         id="stop5424" />
+      <stop
+         style="stop-color:#caa579;stop-opacity:1"
+         offset="1"
+         id="stop5426" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5307">
+      <stop
+         style="stop-color:#f47c1b;stop-opacity:1"
+         offset="0"
+         id="stop5309" />
+      <stop
+         style="stop-color:#9f2510;stop-opacity:1"
+         offset="1"
+         id="stop5311" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5185">
+      <stop
+         style="stop-color:#552d07;stop-opacity:1;"
+         offset="0"
+         id="stop5187" />
+      <stop
+         style="stop-color:#be6510;stop-opacity:1"
+         offset="1"
+         id="stop5189" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4591">
+      <stop
+         style="stop-color:#6a5644;stop-opacity:1;"
+         offset="0"
+         id="stop4593" />
+      <stop
+         style="stop-color:#827754;stop-opacity:1"
+         offset="1"
+         id="stop4595" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4583">
+      <stop
+         style="stop-color:#446a4c;stop-opacity:1;"
+         offset="0"
+         id="stop4585" />
+      <stop
+         style="stop-color:#4e7539;stop-opacity:1"
+         offset="1"
+         id="stop4587" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3997">
+      <stop
+         id="stop4005"
+         offset="0"
+         style="stop-color:#363636;stop-opacity:1" />
+      <stop
+         style="stop-color:#646464;stop-opacity:1"
+         offset="1"
+         id="stop4001" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3993">
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path3995"
+         d="m -1134.2858,532.36218 62.8571,125.71429 -125.7142,0 z"
+         style="fill:#666666;fill-opacity:1;stroke:none" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3997"
+       id="linearGradient4525"
+       gradientUnits="userSpaceOnUse"
+       x1="-1225.2062"
+       y1="615.81543"
+       x2="-1078.2788"
+       y2="605.96643" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3997"
+       id="linearGradient4531"
+       gradientUnits="userSpaceOnUse"
+       x1="-1225.2062"
+       y1="615.81543"
+       x2="-1078.2788"
+       y2="605.96643" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4583"
+       id="linearGradient4589"
+       x1="-961.07141"
+       y1="572.7193"
+       x2="-941.96429"
+       y2="572.54077"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4591"
+       id="linearGradient4597"
+       x1="-957.14288"
+       y1="593.61218"
+       x2="-950.89288"
+       y2="593.07648"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4591"
+       id="linearGradient4603"
+       gradientUnits="userSpaceOnUse"
+       x1="-957.14288"
+       y1="593.61218"
+       x2="-950.89288"
+       y2="593.07648"
+       gradientTransform="matrix(1.2076817,0,0,1.3224987,284.18702,-180.06772)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4583"
+       id="linearGradient4605"
+       gradientUnits="userSpaceOnUse"
+       x1="-961.07141"
+       y1="572.7193"
+       x2="-941.96429"
+       y2="572.54077"
+       gradientTransform="matrix(1.2076817,0,0,1.3224987,284.18702,-180.06772)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4591"
+       id="linearGradient4611"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.8406163,0,0,1.9674961,828.85223,-518.41745)"
+       x1="-957.14288"
+       y1="593.61218"
+       x2="-950.89288"
+       y2="593.07648" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4583"
+       id="linearGradient4613"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.8406163,0,0,1.9674961,828.85223,-518.41745)"
+       x1="-961.07141"
+       y1="572.7193"
+       x2="-941.96429"
+       y2="572.54077" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4591"
+       id="linearGradient4619"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3263569,0,0,1.4664713,383.36529,-205.64004)"
+       x1="-957.14288"
+       y1="593.61218"
+       x2="-950.89288"
+       y2="593.07648" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4583"
+       id="linearGradient4621"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3263569,0,0,1.4664713,383.36529,-205.64004)"
+       x1="-961.07141"
+       y1="572.7193"
+       x2="-941.96429"
+       y2="572.54077" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4591"
+       id="linearGradient4627"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3263569,0,0,1.4664713,307.651,-201.71147)"
+       x1="-957.14288"
+       y1="593.61218"
+       x2="-950.89288"
+       y2="593.07648" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4583"
+       id="linearGradient4629"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3263569,0,0,1.4664713,307.651,-201.71147)"
+       x1="-961.07141"
+       y1="572.7193"
+       x2="-941.96429"
+       y2="572.54077" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4591"
+       id="linearGradient4635"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3263569,0,0,1.4664713,289.79386,-283.49719)"
+       x1="-957.14288"
+       y1="593.61218"
+       x2="-950.89288"
+       y2="593.07648" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4583"
+       id="linearGradient4637"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3263569,0,0,1.4664713,289.79386,-283.49719)"
+       x1="-961.07141"
+       y1="572.7193"
+       x2="-941.96429"
+       y2="572.54077" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4591"
+       id="linearGradient4643"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3263569,0,0,1.4664713,365.5553,-290.8208)"
+       x1="-957.14288"
+       y1="593.61218"
+       x2="-950.89288"
+       y2="593.07648" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4583"
+       id="linearGradient4645"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3263569,0,0,1.4664713,365.5553,-290.8208)"
+       x1="-961.07141"
+       y1="572.7193"
+       x2="-941.96429"
+       y2="572.54077" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4591"
+       id="linearGradient5110"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.8406163,0,0,1.9674961,1029.3675,-518.41745)"
+       x1="-957.14288"
+       y1="593.61218"
+       x2="-950.89288"
+       y2="593.07648" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4583"
+       id="linearGradient5112"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.8406163,0,0,1.9674961,1029.3675,-518.41745)"
+       x1="-961.07141"
+       y1="572.7193"
+       x2="-941.96429"
+       y2="572.54077" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4591"
+       id="linearGradient5120"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.8406163,0,0,1.9674961,1029.3675,-518.41745)"
+       x1="-957.14288"
+       y1="593.61218"
+       x2="-950.89288"
+       y2="593.07648" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4583"
+       id="linearGradient5122"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.8406163,0,0,1.9674961,1029.3675,-518.41745)"
+       x1="-961.07141"
+       y1="572.7193"
+       x2="-941.96429"
+       y2="572.54077" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5185"
+       id="linearGradient5200"
+       gradientUnits="userSpaceOnUse"
+       x1="-394.91071"
+       y1="644.86218"
+       x2="-390.98215"
+       y2="644.77289" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5185"
+       id="linearGradient5210"
+       gradientUnits="userSpaceOnUse"
+       x1="-394.91071"
+       y1="644.86218"
+       x2="-390.98215"
+       y2="644.77289" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5185"
+       id="linearGradient5276"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,3.1156635,-36.979341,-1377.0344)"
+       x1="-394.91071"
+       y1="644.86218"
+       x2="-390.98215"
+       y2="644.77289" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5185"
+       id="linearGradient5288"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,3.1156635,-36.979341,-1377.0344)"
+       x1="-394.91071"
+       y1="644.86218"
+       x2="-390.98215"
+       y2="644.77289" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5307"
+       id="radialGradient5333"
+       gradientUnits="userSpaceOnUse"
+       cx="-326.2005"
+       cy="625.7168"
+       fx="-326.2005"
+       fy="625.7168"
+       r="1.8940361" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5307"
+       id="radialGradient5382"
+       gradientUnits="userSpaceOnUse"
+       cx="-326.2005"
+       cy="625.7168"
+       fx="-326.2005"
+       fy="625.7168"
+       r="1.8940361" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5307"
+       id="radialGradient5392"
+       gradientUnits="userSpaceOnUse"
+       cx="-326.2005"
+       cy="625.7168"
+       fx="-326.2005"
+       fy="625.7168"
+       r="1.8940361" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5307"
+       id="radialGradient5402"
+       gradientUnits="userSpaceOnUse"
+       cx="-326.2005"
+       cy="625.7168"
+       fx="-326.2005"
+       fy="625.7168"
+       r="1.8940361" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5307"
+       id="radialGradient5412"
+       gradientUnits="userSpaceOnUse"
+       cx="-326.2005"
+       cy="625.7168"
+       fx="-326.2005"
+       fy="625.7168"
+       r="1.8940361" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5422"
+       id="linearGradient5428"
+       x1="-296.47977"
+       y1="641.4826"
+       x2="-283.09525"
+       y2="639.58862"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="-367.91729"
+     inkscape:cy="509.71708"
+     inkscape:document-units="pt"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="pt"
+     showborder="false"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#646464;fill-opacity:0;stroke:none"
+       id="rect4527"
+       width="151.27036"
+       height="151.27036"
+       x="-1214.2032"
+       y="509.65771"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\mountains.png"
+       inkscape:export-xdpi="76.155022"
+       inkscape:export-ydpi="76.155022" />
+    <g
+       id="g4519"
+       transform="matrix(0.76988621,0,0,1.0783442,-211.83434,-30.226484)">
+      <path
+         style="fill:url(#linearGradient4525);fill-opacity:1;stroke:none"
+         d="m -1152.5001,536.29075 62.8571,125.71429 -125.7142,0 z"
+         id="path4521"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:#ece4e4;fill-opacity:1;stroke:none"
+         d="m -1165.1786,582.8979 c 0,0 15.3426,-23.93818 15.3426,-22.68818 0,1.25 0.4085,14.403 0.4085,14.403 l 8.4764,-14.21021 0.597,18.86884 7.2233,-17.76151 c 0,0 5.4806,8.37119 4.9449,7.29976 -0.5357,-1.07143 -0.3787,-17.97071 -0.3787,-17.97071 l 28.0289,36.70186 c 0,0 -20.7143,-75.71428 -22.1429,-75.17857 -1.4285,0.53572 -44.4643,-0.35714 -45.5357,1.60714 -1.0714,1.96429 3.0357,68.92858 3.0357,68.92858 z"
+         id="path4523"
+         inkscape:connector-curvature="0"
+         clip-path="url(#clipPath3993)"
+         transform="translate(-18.214286,3.9285714)"
+         sodipodi:nodetypes="csccccscccsc" />
+    </g>
+    <g
+       id="g4515"
+       transform="matrix(1.1245473,0,0,1.1446355,146.82377,-96.254488)">
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect3973"
+         d="m -1152.5001,536.29075 62.8571,125.71429 -125.7142,0 z"
+         style="fill:url(#linearGradient4531);fill-opacity:1;stroke:none" />
+      <path
+         transform="translate(-18.214286,3.9285714)"
+         clip-path="url(#clipPath3993)"
+         inkscape:connector-curvature="0"
+         id="path3989"
+         d="m -1165.1786,582.8979 c 0,0 15.1786,-12.32143 15.1786,-11.07143 0,1.25 -3.0357,13.39285 -3.0357,13.39285 l 11.4286,-9.28571 7.3214,23.03571 4.1071,-18.39285 c 0,0 10.8929,8.75 10.3572,7.67857 -0.5357,-1.07143 -4.6429,-19.10714 -4.6429,-19.10714 l 23.9286,18.39285 c 0,0 -20.7143,-75.71428 -22.1429,-75.17857 -1.4285,0.53572 -44.4643,-0.35714 -45.5357,1.60714 -1.0714,1.96429 3.0357,68.92858 3.0357,68.92858 z"
+         style="fill:#ece4e4;fill-opacity:1;stroke:none" />
+    </g>
+    <rect
+       inkscape:export-ydpi="76.155022"
+       inkscape:export-xdpi="76.155022"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\mountains.png"
+       y="509.65771"
+       x="-1214.2032"
+       height="151.27036"
+       width="151.27036"
+       id="rect4533"
+       style="fill:#646464;fill-opacity:0;stroke:none" />
+    <rect
+       style="fill:#999999;fill-opacity:0;stroke:none"
+       id="rect4535"
+       width="150"
+       height="150"
+       x="-985.71429"
+       y="533.79077"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\forest.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <rect
+       y="566.07721"
+       x="-904.19458"
+       height="21.99707"
+       width="9.0002785"
+       id="rect4639"
+       style="fill:url(#linearGradient4643);fill-opacity:1;stroke:none"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\forest.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <rect
+       style="fill:url(#linearGradient4635);fill-opacity:1;stroke:none"
+       id="rect4631"
+       width="9.0002785"
+       height="21.99707"
+       x="-979.95599"
+       y="573.40082"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\forest.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <rect
+       y="584.32642"
+       x="-957.32141"
+       height="15"
+       width="6.7857141"
+       id="rect4566"
+       style="fill:url(#linearGradient4597);fill-opacity:1;stroke:none"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\forest.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4633"
+       d="m -974.32891,504.45353 23.94934,69.25356 -47.89867,0 z"
+       style="fill:url(#linearGradient4637);fill-opacity:1;stroke:none"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\forest.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <path
+       style="fill:url(#linearGradient4589);fill-opacity:1;stroke:none"
+       d="m -953.0789,537.31067 18.05648,47.22463 -36.11296,0 z"
+       id="rect4580"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\forest.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <rect
+       style="fill:url(#linearGradient4603);fill-opacity:1;stroke:none"
+       id="rect4599"
+       width="8.1949825"
+       height="19.837481"
+       x="-871.95251"
+       y="592.70325"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\forest.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <path
+       style="fill:url(#linearGradient4645);fill-opacity:1;stroke:none"
+       d="m -898.56747,497.12992 23.94934,69.25356 -47.89867,0 z"
+       id="path4641"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\forest.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <rect
+       y="631.24255"
+       x="-933.20917"
+       height="29.512442"
+       width="12.489896"
+       id="rect4607"
+       style="fill:url(#linearGradient4611);fill-opacity:1;stroke:none"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\forest.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <path
+       style="fill:url(#linearGradient4613);fill-opacity:1;stroke:none"
+       d="m -925.40033,538.73925 33.23505,92.91427 -66.4701,0 z"
+       id="path4609"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\forest.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <rect
+       style="fill:url(#linearGradient4619);fill-opacity:1;stroke:none"
+       id="rect4615"
+       width="9.0002785"
+       height="21.99707"
+       x="-886.38458"
+       y="651.25793"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\forest.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4601"
+       d="m -866.8289,530.52496 21.80648,62.45451 -43.61296,0 z"
+       style="fill:url(#linearGradient4605);fill-opacity:1;stroke:none"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\forest.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4617"
+       d="m -880.75748,582.31068 23.94934,69.25356 -47.89867,0 z"
+       style="fill:url(#linearGradient4621);fill-opacity:1;stroke:none"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\forest.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <rect
+       y="655.18652"
+       x="-962.09888"
+       height="21.99707"
+       width="9.0002785"
+       id="rect4623"
+       style="fill:url(#linearGradient4627);fill-opacity:1;stroke:none"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\forest.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <path
+       style="fill:url(#linearGradient4629);fill-opacity:1;stroke:none"
+       d="m -956.47177,586.23925 23.94934,69.25356 -47.89867,0 z"
+       id="path4625"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\forest.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <rect
+       y="533.79077"
+       x="-785.19904"
+       height="150"
+       width="150"
+       id="rect4846"
+       style="fill:#999999;fill-opacity:1;stroke:none" />
+    <g
+       id="g5106"
+       transform="translate(-23.233509,-30.304576)">
+      <rect
+         y="631.24255"
+         x="-732.69391"
+         height="29.512442"
+         width="12.489896"
+         id="rect4862"
+         style="fill:url(#linearGradient5110);fill-opacity:1;stroke:none" />
+      <path
+         style="fill:url(#linearGradient5112);fill-opacity:1;stroke:none"
+         d="m -724.88505,538.73925 33.23505,92.91427 -66.4701,0 z"
+         id="path4864"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       transform="matrix(1.447059,0,0,1.447059,365.69346,-283.27464)"
+       id="g5114">
+      <rect
+         style="fill:url(#linearGradient5120);fill-opacity:1;stroke:none"
+         id="rect5116"
+         width="12.489896"
+         height="29.512442"
+         x="-732.69391"
+         y="631.24255" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path5118"
+         d="m -724.88505,538.73925 33.23505,92.91427 -66.4701,0 z"
+         style="fill:url(#linearGradient5122);fill-opacity:1;stroke:none" />
+    </g>
+    <path
+       style="fill:#ff6600;stroke:#000000;stroke-width:0.40660438px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -515.22068,559.48215 c 0.2033,-1.21981 2.03302,-10.97832 3.04954,-12.19814 1.01651,-1.21981 3.65943,-4.87925 4.67595,-4.67595 1.01651,0.2033 7.11557,1.42311 7.11557,1.42311 0,0 2.23633,5.28587 2.43963,6.91229 0.2033,1.62641 1.42311,9.5552 1.42311,9.5552 0,0 -3.45613,2.84623 -3.45613,4.06604 0,1.21982 1.21981,13.01134 1.21981,13.01134 l 3.04953,-5.28585 2.23633,1.01651 c 0,0 13.01134,22.97314 12.80803,25.20947 -0.2033,2.23632 1.21982,40.45713 1.21982,40.45713 0,0 -5.48916,-19.3137 -5.69246,-21.95663 -0.20331,-2.64293 -11.99483,-11.79153 -11.99483,-11.79153 l -4.47265,11.18162 -3.45614,19.92362 c 0,0 7.72549,9.9618 7.52218,11.79152 -0.2033,1.82972 1.01651,18.5005 -2.64293,20.73683 -3.65943,2.23632 -35.57788,10.36841 -35.57788,10.36841 0,0 16.46748,-14.02785 16.67078,-16.46748 0.2033,-2.43963 4.26935,-11.99483 1.62642,-15.04436 -2.64293,-3.04953 -6.30237,-8.9453 -7.11558,-12.40144 -0.81321,-3.45613 0.60991,-17.68729 0.60991,-17.68729 0,0 -1.42312,-16.87408 -2.84623,-15.85757 -1.42312,1.01651 -15.45097,13.01134 -15.65427,15.24767 -0.2033,2.23632 3.86274,26.42928 3.86274,26.42928 l -14.84106,-33.13825 c 0,0 15.04436,-28.25901 15.45097,-29.47882 0.4066,-1.21981 4.87925,-13.21464 4.87925,-13.21464 0,0 6.91227,4.47264 6.91227,5.28585 0,0.81321 9.75851,7.11558 9.75851,7.11558 l 3.45614,-16.67078 z"
+       id="path2982"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#999999;fill-opacity:0;stroke:none"
+       id="rect5142"
+       width="150"
+       height="150"
+       x="-582.15839"
+       y="533.79077"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Traders\Dragon.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <rect
+       style="fill:#999999;fill-opacity:0;stroke:none"
+       id="rect5144"
+       width="150"
+       height="150"
+       x="-418.51367"
+       y="533.79077"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\store.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <rect
+       y="562.56763"
+       x="-399.51535"
+       height="109.72463"
+       width="110.35917"
+       id="rect5158"
+       style="fill:#382c1c;fill-opacity:1;stroke:none"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\store.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <rect
+       style="fill:#795c3c;fill-opacity:1;stroke:none"
+       id="rect5146"
+       width="110.35917"
+       height="47.224632"
+       x="-399.51535"
+       y="625.06763"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\store.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <rect
+       y="609.41028"
+       x="-399.51535"
+       height="16.162441"
+       width="110.35917"
+       id="rect5148"
+       style="fill:#b18b61;fill-opacity:1;stroke:none"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\store.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <rect
+       y="578.34808"
+       x="-399.51535"
+       height="47.224632"
+       width="10.101529"
+       id="rect5150"
+       style="fill:#795c3c;fill-opacity:1;stroke:none"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\store.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <rect
+       style="fill:#795c3c;fill-opacity:1;stroke:none"
+       id="rect5152"
+       width="10.101529"
+       height="47.224632"
+       x="-299.25772"
+       y="578.34808"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\store.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <rect
+       y="532.13361"
+       x="-399.51535"
+       height="47.224632"
+       width="110.35917"
+       id="rect5154"
+       style="fill:#793c3c;fill-opacity:1;stroke:none"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\store.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <rect
+       style="fill:#a04f4f;fill-opacity:1;stroke:none"
+       id="rect5156"
+       width="110.35917"
+       height="19.445436"
+       x="-399.51535"
+       y="515.21356"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\store.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <text
+       xml:space="preserve"
+       style="font-size:40.8576088px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#b18b61;fill-opacity:1;stroke:none;font-family:MS PGothic;-inkscape-font-specification:MS PGothic"
+       x="-392.33054"
+       y="664.78229"
+       id="text5160"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\store.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003"><tspan
+         sodipodi:role="line"
+         id="tspan5162"
+         x="-392.33054"
+         y="664.78229">Trade</tspan></text>
+    <g
+       id="g5195"
+       transform="translate(-52.275395,-8.460028)">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="rect5180"
+         d="m -396.42856,591.4693 4.48223,19.57171 -0.82075,30.73331 -3.59866,0.0499 -2.71447,-30.43085 z"
+         style="fill:#999999;fill-opacity:1;stroke:none" />
+      <rect
+         y="641.55859"
+         x="-396.25"
+         height="11.160714"
+         width="3.3928571"
+         id="rect5183"
+         style="fill:url(#linearGradient5200);fill-opacity:1;stroke:none" />
+      <path
+         style="fill:#727272;fill-opacity:1;stroke:none"
+         d="m -396.42856,591.4693 1.87577,50.12645 -1.81295,0.22847 -2.71447,-30.43085 z"
+         id="path5193"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <g
+       transform="matrix(-0.98878742,-0.14932998,0.14932998,-0.98878742,-880.49929,1195.5765)"
+       id="g5202"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\store.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003">
+      <path
+         style="fill:#999999;fill-opacity:1;stroke:none"
+         d="m -396.42856,591.4693 4.48223,19.57171 -0.82075,30.73331 -3.59866,0.0499 -2.71447,-30.43085 z"
+         id="path5204"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+      <rect
+         style="fill:url(#linearGradient5210);fill-opacity:1;stroke:none"
+         id="rect5206"
+         width="3.3928571"
+         height="11.160714"
+         x="-396.25"
+         y="641.55859" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path5208"
+         d="m -396.42856,591.4693 1.87577,50.12645 -1.81295,0.22847 -2.71447,-30.43085 z"
+         style="fill:#727272;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="g5270"
+       transform="translate(-29.925769,12.374369)">
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path5268"
+         d="m -429.80051,614.26617 -2.48217,-0.0847 -7.48217,-2.76333 c -3.03825,6.85493 -1.44964,12.29666 1.92823,15.54523 l 5.9461,-4.9012 3.59866,0.0499 z"
+         style="fill:#666666;fill-opacity:1;stroke:none" />
+      <path
+         style="fill:#999999;fill-opacity:1;stroke:none"
+         d="m -431.83643,614.26617 2.48217,-0.0847 7.48217,-2.76333 c 3.03825,6.85493 1.44964,12.29666 -1.92823,15.54523 l -5.9461,-4.9012 -3.59866,0.0499 z"
+         id="path5242"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+      <rect
+         style="fill:url(#linearGradient5276);fill-opacity:1;stroke:none"
+         id="rect5244"
+         width="3.3928571"
+         height="34.773029"
+         x="-433.22931"
+         y="621.84637" />
+      <rect
+         y="614.33478"
+         x="-433.16605"
+         height="7.8286824"
+         width="3.4092648"
+         id="rect5266"
+         style="fill:#727272;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       transform="matrix(-0.96214344,-0.27254357,0.27254357,-0.96214344,-987.9471,1100.4813)"
+       id="g5278"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\store.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003">
+      <path
+         style="fill:#666666;fill-opacity:1;stroke:none"
+         d="m -429.80051,614.26617 -2.48217,-0.0847 -7.48217,-2.76333 c -3.03825,6.85493 -1.44964,12.29666 1.92823,15.54523 l 5.9461,-4.9012 3.59866,0.0499 z"
+         id="path5280"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path5282"
+         d="m -431.83643,614.26617 2.48217,-0.0847 7.48217,-2.76333 c 3.03825,6.85493 1.44964,12.29666 -1.92823,15.54523 l -5.9461,-4.9012 -3.59866,0.0499 z"
+         style="fill:#999999;fill-opacity:1;stroke:none" />
+      <rect
+         y="621.84637"
+         x="-433.22931"
+         height="34.773029"
+         width="3.3928571"
+         id="rect5284"
+         style="fill:url(#linearGradient5288);fill-opacity:1;stroke:none" />
+      <rect
+         style="fill:#727272;fill-opacity:1;stroke:none"
+         id="rect5286"
+         width="3.4092648"
+         height="7.8286824"
+         x="-433.16605"
+         y="614.33478" />
+    </g>
+    <rect
+       style="fill:#7c5132;fill-opacity:1;stroke:none"
+       id="rect5290"
+       width="23.107239"
+       height="15.909903"
+       x="-304.05591"
+       y="589.71234"
+       ry="5.177032"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\store.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <rect
+       style="fill:#68442a;fill-opacity:1;stroke:none"
+       id="rect5292"
+       width="4.4194174"
+       height="18.940361"
+       x="-299.95218"
+       y="588.51276"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\store.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <rect
+       y="588.51276"
+       x="-288.71423"
+       height="18.940361"
+       width="4.4194174"
+       id="rect5294"
+       style="fill:#68442a;fill-opacity:1;stroke:none"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\store.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <rect
+       style="fill:none;stroke:#4d4d4d"
+       id="rect5296"
+       width="5.4927044"
+       height="4.1037445"
+       x="-300.39413"
+       y="592.30084"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\store.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <rect
+       y="591.92206"
+       x="-289.15619"
+       height="4.1037445"
+       width="5.4927044"
+       id="rect5298"
+       style="fill:none;stroke:#4d4d4d"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\store.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <g
+       transform="translate(-4.5535718,-3.0357143)"
+       id="g5394"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\store.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003">
+      <path
+         transform="matrix(2.0769331,0,0,2.0769331,390.81544,-668.4052)"
+         d="m -324.76405,626.14093 c 0,1.04605 -0.84798,1.89404 -1.89403,1.89404 -1.04605,0 -1.89404,-0.84799 -1.89404,-1.89404 0,-1.04605 0.84799,-1.89404 1.89404,-1.89404 1.04605,0 1.89403,0.84799 1.89403,1.89404 z"
+         sodipodi:ry="1.8940361"
+         sodipodi:rx="1.8940361"
+         sodipodi:cy="626.14093"
+         sodipodi:cx="-326.65808"
+         id="path5396"
+         style="fill:url(#radialGradient5402);fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path5398"
+         d="m -283.44607,625.822 c -0.92067,2.26828 -1.62687,2.49691 -3.84788,3.0366 0.51882,-2.67268 1.35952,-2.52763 3.84788,-3.0366 z"
+         style="fill:#486f05;fill-opacity:1;stroke:none" />
+      <path
+         style="fill:#486f05;fill-opacity:1;stroke:none"
+         d="m -291.95313,625.89154 c 1.24788,2.45875 2.20508,2.70657 5.21549,3.29158 -0.70321,-2.89709 -1.84272,-2.73987 -5.21549,-3.29158 z"
+         id="path5400"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="g5384"
+       transform="matrix(1.0360616,-0.33514592,0.50549146,0.68691927,-315.92476,102.20702)"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\store.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003">
+      <path
+         sodipodi:type="arc"
+         style="fill:url(#radialGradient5392);fill-opacity:1;stroke:none"
+         id="path5386"
+         sodipodi:cx="-326.65808"
+         sodipodi:cy="626.14093"
+         sodipodi:rx="1.8940361"
+         sodipodi:ry="1.8940361"
+         d="m -324.76405,626.14093 c 0,1.04605 -0.84798,1.89404 -1.89403,1.89404 -1.04605,0 -1.89404,-0.84799 -1.89404,-1.89404 0,-1.04605 0.84799,-1.89404 1.89404,-1.89404 1.04605,0 1.89403,0.84799 1.89403,1.89404 z"
+         transform="matrix(2.0769331,0,0,2.0769331,390.81544,-668.4052)" />
+      <path
+         style="fill:#486f05;fill-opacity:1;stroke:none"
+         d="m -283.44607,625.822 c -0.92067,2.26828 -1.62687,2.49691 -3.84788,3.0366 0.51882,-2.67268 1.35952,-2.52763 3.84788,-3.0366 z"
+         id="path5388"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path5390"
+         d="m -291.95313,625.89154 c 1.24788,2.45875 2.20508,2.70657 5.21549,3.29158 -0.70321,-2.89709 -1.84272,-2.73987 -5.21549,-3.29158 z"
+         style="fill:#486f05;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       transform="matrix(0.91027257,0.41400949,-0.41400949,0.91027257,236.36689,176.16598)"
+       id="g5374"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\store.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003">
+      <path
+         transform="matrix(2.0769331,0,0,2.0769331,390.81544,-668.4052)"
+         d="m -324.76405,626.14093 c 0,1.04605 -0.84798,1.89404 -1.89403,1.89404 -1.04605,0 -1.89404,-0.84799 -1.89404,-1.89404 0,-1.04605 0.84799,-1.89404 1.89404,-1.89404 1.04605,0 1.89403,0.84799 1.89403,1.89404 z"
+         sodipodi:ry="1.8940361"
+         sodipodi:rx="1.8940361"
+         sodipodi:cy="626.14093"
+         sodipodi:cx="-326.65808"
+         id="path5376"
+         style="fill:url(#radialGradient5382);fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path5378"
+         d="m -283.44607,625.822 c -0.92067,2.26828 -1.62687,2.49691 -3.84788,3.0366 0.51882,-2.67268 1.35952,-2.52763 3.84788,-3.0366 z"
+         style="fill:#486f05;fill-opacity:1;stroke:none" />
+      <path
+         style="fill:#486f05;fill-opacity:1;stroke:none"
+         d="m -291.95313,625.89154 c 1.24788,2.45875 2.20508,2.70657 5.21549,3.29158 -0.70321,-2.89709 -1.84272,-2.73987 -5.21549,-3.29158 z"
+         id="path5380"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       transform="matrix(0.82157677,0,0,0.86817288,-62.626936,82.857458)"
+       id="g5404"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\store.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003">
+      <path
+         transform="matrix(2.0769331,0,0,2.0769331,390.81544,-668.4052)"
+         d="m -324.76405,626.14093 c 0,1.04605 -0.84798,1.89404 -1.89403,1.89404 -1.04605,0 -1.89404,-0.84799 -1.89404,-1.89404 0,-1.04605 0.84799,-1.89404 1.89404,-1.89404 1.04605,0 1.89403,0.84799 1.89403,1.89404 z"
+         sodipodi:ry="1.8940361"
+         sodipodi:rx="1.8940361"
+         sodipodi:cy="626.14093"
+         sodipodi:cx="-326.65808"
+         id="path5406"
+         style="fill:url(#radialGradient5412);fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path5408"
+         d="m -283.44607,625.822 c -0.92067,2.26828 -1.62687,2.49691 -3.84788,3.0366 0.51882,-2.67268 1.35952,-2.52763 3.84788,-3.0366 z"
+         style="fill:#486f05;fill-opacity:1;stroke:none" />
+      <path
+         style="fill:#486f05;fill-opacity:1;stroke:none"
+         d="m -291.95313,625.89154 c 1.24788,2.45875 2.20508,2.70657 5.21549,3.29158 -0.70321,-2.89709 -1.84272,-2.73987 -5.21549,-3.29158 z"
+         id="path5410"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <path
+       style="fill:url(#linearGradient5428);fill-opacity:1;stroke:none"
+       d="m -301.96429,633.79077 19.01785,0 c 0,0 -3.53855,15.17857 -9.50893,15.17857 -5.97037,0 -9.50892,-15.17857 -9.50892,-15.17857 z"
+       id="rect5300"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccsc"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\store.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <path
+       style="fill:none;stroke:#7c5132;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -301.97248,633.71709 9.97526,-21.33948 8.9651,21.27634"
+       id="path5303"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\store.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <g
+       id="g5328"
+       transform="translate(-212.05357,78.125)">
+      <path
+         sodipodi:type="arc"
+         style="fill:url(#radialGradient5333);fill-opacity:1;stroke:none"
+         id="path5320"
+         sodipodi:cx="-326.65808"
+         sodipodi:cy="626.14093"
+         sodipodi:rx="1.8940361"
+         sodipodi:ry="1.8940361"
+         d="m -324.76405,626.14093 c 0,1.04605 -0.84798,1.89404 -1.89403,1.89404 -1.04605,0 -1.89404,-0.84799 -1.89404,-1.89404 0,-1.04605 0.84799,-1.89404 1.89404,-1.89404 1.04605,0 1.89403,0.84799 1.89403,1.89404 z"
+         transform="matrix(2.0769331,0,0,2.0769331,390.81544,-668.4052)" />
+      <path
+         style="fill:#486f05;fill-opacity:1;stroke:none"
+         d="m -283.44607,625.822 c -0.92067,2.26828 -1.62687,2.49691 -3.84788,3.0366 0.51882,-2.67268 1.35952,-2.52763 3.84788,-3.0366 z"
+         id="path5322"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path5324"
+         d="m -291.95313,625.89154 c 1.24788,2.45875 2.20508,2.70657 5.21549,3.29158 -0.70321,-2.89709 -1.84272,-2.73987 -5.21549,-3.29158 z"
+         style="fill:#486f05;fill-opacity:1;stroke:none" />
+    </g>
+    <rect
+       style="fill:#999999;fill-opacity:0;stroke:none"
+       id="rect5430"
+       width="150"
+       height="150"
+       x="-419.48474"
+       y="533.79077"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\store.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#d1a590;fill-opacity:1;stroke:none"
+       id="path5432"
+       sodipodi:cx="-347.76785"
+       sodipodi:cy="603.3443"
+       sodipodi:rx="7.2321429"
+       sodipodi:ry="12.767858"
+       d="m -340.53571,603.3443 a 7.2321429,12.767858 0 1 1 -14.46429,0 7.2321429,12.767858 0 1 1 14.46429,0 z"
+       transform="matrix(1.2182428,0,0,1,83.53712,-4.5456865)"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\store.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <path
+       transform="matrix(1.6435643,0,0,1.4337349,220.34343,-253.54285)"
+       d="m -341.33929,594.43805 a 2.2544644,1.8526785 0 1 1 -4.50892,0 2.2544644,1.8526785 0 1 1 4.50892,0 z"
+       sodipodi:ry="1.8526785"
+       sodipodi:rx="2.2544644"
+       sodipodi:cy="594.43805"
+       sodipodi:cx="-343.59375"
+       id="path5436"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\store.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path5462"
+       sodipodi:cx="-343.59375"
+       sodipodi:cy="594.43805"
+       sodipodi:rx="2.2544644"
+       sodipodi:ry="1.8526785"
+       d="m -341.33929,594.43805 a 2.2544644,1.8526785 0 1 1 -4.50892,0 2.2544644,1.8526785 0 1 1 4.50892,0 z"
+       transform="matrix(1.6435643,0,0,1.4337349,229.36128,-253.81071)"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\store.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#262626;fill-opacity:1;stroke:none"
+       id="path5464"
+       sodipodi:cx="-343.59375"
+       sodipodi:cy="594.43805"
+       sodipodi:rx="2.2544644"
+       sodipodi:ry="1.8526785"
+       d="m -341.33929,594.43805 a 2.2544644,1.8526785 0 1 1 -4.50892,0 2.2544644,1.8526785 0 1 1 4.50892,0 z"
+       transform="matrix(0.85148513,0,0,1.4337349,-51.810024,-253.54285)"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\store.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <path
+       transform="matrix(0.85148513,0,0,1.4337349,-42.970738,-253.54285)"
+       d="m -341.33929,594.43805 a 2.2544644,1.8526785 0 1 1 -4.50892,0 2.2544644,1.8526785 0 1 1 4.50892,0 z"
+       sodipodi:ry="1.8526785"
+       sodipodi:rx="2.2544644"
+       sodipodi:cy="594.43805"
+       sodipodi:cx="-343.59375"
+       id="path5466"
+       style="fill:#262626;fill-opacity:1;stroke:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\store.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -341.25,608.43361 3.66071,-1.16071"
+       id="path5468"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\store.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -346.69643,594.05861 c 0.71429,0.26786 4.55357,2.32143 4.55357,2.32143"
+       id="path5470"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\store.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -338.39286,596.38004 4.28572,-2.23214"
+       id="path5472"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\store.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+    <path
+       style="fill:#e2903a;stroke:none;fill-opacity:1"
+       d="m -345.89286,591.39932 c 0,0 -4.10714,6.64239 -4.28571,5.95861 -0.17857,-0.68377 1.16071,-4.98179 1.16071,-4.98179 0,0 -2.94643,-0.29305 -1.96428,-0.78146 0.98214,-0.4884 4.375,-3.90728 4.375,-3.90728 l 0.44642,-4.00497 c 0,0 1.96429,1.75827 2.67858,1.75827 0.71428,0 5,-3.61424 5,-3.61424 0,0 -0.80358,3.80962 0.35714,4.10266 1.16071,0.29305 5.80357,0.29305 5.89286,0.68377 0.0893,0.39074 -2.67858,2.34438 -1.60715,2.83279 1.07143,0.48841 8.66072,4.68874 8.21429,4.68874 -0.44643,0 -6.60714,-1.26986 -5.71429,-0.68377 0.89286,0.58609 4.01786,3.51656 3.30357,3.41887 -0.71428,-0.0977 -8.66071,-5.17715 -8.66071,-5.17715 0,0 -1.69643,2.24669 -2.14286,2.24669 -0.44643,0 -3.83928,-3.61424 -3.83928,-3.61424 l 0.35714,3.8096 z"
+       id="path5474"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\Tiles\store.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003" />
+  </g>
+</svg>
