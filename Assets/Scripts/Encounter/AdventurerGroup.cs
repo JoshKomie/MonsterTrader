@@ -9,8 +9,8 @@ public class AdventurerGroup
 	private string fightText;
 	private string tradeText;
 	private Store store;
-	private ushort combatProficiency;	
-	public AdventurerGroup (string name, string fightText, string tradeText, Store store, ushort combatProficiency)
+	private decimal combatProficiency;	
+	public AdventurerGroup (string name, string fightText, string tradeText, Store store, decimal combatProficiency)
 	{
 		this.name = name;
 		this.fightText = fightText;
@@ -50,7 +50,7 @@ public class AdventurerGroup
 		}
 	}
 
-	public ushort CombatProficiency
+	public decimal  CombatProficiency
 	{
 		get
 		{

@@ -1,14 +1,15 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\UI\EncounterWindow.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Trader.cs">
     <Files>
-      <File FileName="Assets\Scripts\Encounter\AdventurerGroup.cs" Line="64" Column="2" />
-      <File FileName="Assets\Scripts\Encounter\StandardEncounter.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Encounter\AdventurerIndex.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Trader.cs" Line="168" Column="27" />
-      <File FileName="Assets\Scripts\Tiles.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\UI\EncounterWindow.cs" Line="11" Column="2" />
-      <File FileName="Assets\Scripts\UI\UI.cs" Line="76" Column="80" />
+      <File FileName="Assets\Scripts\UI\LevelTime.cs" Line="36" Column="28" />
+      <File FileName="Assets\Scripts\Global.cs" Line="16" Column="28" />
+      <File FileName="Assets\Scripts\LevelEndScreen\LevelEnd.cs" Line="23" Column="31" />
+      <File FileName="Assets\Scripts\Trader.cs" Line="23" Column="43" />
+      <File FileName="Assets\Scripts\Tiles.cs" Line="62" Column="28" />
+      <File FileName="Assets\ChooseMonster.cs" Line="28" Column="3" />
+      <File FileName="..\Oppose Inertia\Assets\Scripts\Space Entities\WarpGate.cs" Line="44" Column="33" />
+      <File FileName="Assets\Scripts\UI\UI.cs" Line="23" Column="25" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

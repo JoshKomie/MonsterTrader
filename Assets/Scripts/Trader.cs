@@ -10,14 +10,20 @@ public class Trader : MonoBehaviour
 	private Store currentStore;
 	private List<Item> inventory;
 	private int gold;
-	private int startingGold = 100;
+	private int startingGold = 600;
+	private decimal combatProficiency = .4m;
+	private decimal fleeSuccessChange = .8m;
+	private ushort currentHealth;
+	private ushort startingHealth = 15;
 	public void Start()
 	{
 		if (inventory == null)
 			inventory = new List<Item>();
 		updateInventory();
-		gold = startingGold;
+		gold = startingGold + Global.GoldForNext;
+		currentHealth = startingHealth;
 		Global.Gold.ValueChanged(gold);
+		Global.Health.ValueChanged(currentHealth);
 	}
 	public void Update()
 	{
@@ -171,7 +177,20 @@ public class Trader : MonoBehaviour
 		}
 	}
 	
+	public void TakeDamage(ushort damage)
+	{
+		currentHealth -= damage;
+		Global.Health.ValueChanged(currentHealth);
+		if (currentHealth <= 0)
+		{
+			die();
+		}
+	}
 	
+	private void die()
+	{
+		Debug.Log ("player dead");
+	}
 	
 	public bool Has(Item i)
 	{
@@ -194,6 +213,21 @@ public class Trader : MonoBehaviour
 				gold = 0;
 			}
 			Global.Gold.ValueChanged(gold);
+		}
+	}
+
+	public decimal CombatProficiency {
+		get {
+			return combatProficiency;
+		}
+		set {
+			combatProficiency = value;
+		}
+	}
+
+	public decimal FleeSuccessChange {
+		get {
+			return fleeSuccessChange;
 		}
 	}
 }

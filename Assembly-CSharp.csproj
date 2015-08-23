@@ -46,25 +46,31 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\ChooseMonster.cs" />
      <Compile Include="Assets\FlipScrollDir.cs" />
      <Compile Include="Assets\Scripts\Encounter\AdventurerGroup.cs" />
      <Compile Include="Assets\Scripts\Encounter\AdventurerIndex.cs" />
      <Compile Include="Assets\Scripts\Encounter\Encounter.cs" />
      <Compile Include="Assets\Scripts\Encounter\StandardEncounter.cs" />
      <Compile Include="Assets\Scripts\Global.cs" />
+     <Compile Include="Assets\Scripts\LevelEndScreen\LevelEnd.cs" />
      <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
      <Compile Include="Assets\Scripts\Tiles.cs" />
      <Compile Include="Assets\Scripts\Trader.cs" />
      <Compile Include="Assets\Scripts\Trading\AbstractItem.cs" />
      <Compile Include="Assets\Scripts\Trading\Catalog.cs" />
      <Compile Include="Assets\Scripts\Trading\Item.cs" />
+     <Compile Include="Assets\Scripts\Trading\ItemType.cs" />
+     <Compile Include="Assets\Scripts\Trading\Material.cs" />
      <Compile Include="Assets\Scripts\Trading\Store.cs" />
      <Compile Include="Assets\Scripts\UI\DraggableWindow.cs" />
      <Compile Include="Assets\Scripts\UI\EncounterWindow.cs" />
      <Compile Include="Assets\Scripts\UI\GoldInterface.cs" />
+     <Compile Include="Assets\Scripts\UI\HealthInterface.cs" />
      <Compile Include="Assets\Scripts\UI\InventoryItem.cs" />
      <Compile Include="Assets\Scripts\UI\InventoryWindow.cs" />
      <Compile Include="Assets\Scripts\UI\ItemInterface.cs" />
+     <Compile Include="Assets\Scripts\UI\LevelTime.cs" />
      <Compile Include="Assets\Scripts\UI\TradeWindow.cs" />
      <Compile Include="Assets\Scripts\UI\UI.cs" />
      <Compile Include="Assets\Scripts\Utility\Pair.cs" />

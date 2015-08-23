@@ -25,30 +25,72 @@ public class Tiles : MonoBehaviour
 	
 	
 	private Dictionary<Pair, Store> stores;
-	private ushort[,] tileMap;
-	
+	private ushort[,] t1, t2, t3, t4, t5;
+	private ushort[,] current;
 	public void Start()
 	{
-		tileMap = new ushort[10, 10] { 
+		t1 = new ushort[10, 10] { 
 												{1, 1, 1, 1, 1, 0, 0, 0, 0, 0 }, 
 												{1, 1, 0, 1, 1, 1, 0, 0, 0, 0 }, 
 												{0, 0, 0, 0, 0, 0, 0, 0, 0, 0 }, 
 												{0, 3, 0, 0, 0, 0, 0, 0, 0, 0 }, 
 												{0, 0, 0, 0, 0, 1, 0, 0, 0, 0 }, 
-												{0, 0, 0, 0, 2, 0, 0, 0, 0, 0 }, 
+												{0, 0, 1, 1, 2, 0, 0, 0, 0, 0 }, 
 												{0, 0, 2, 2, 0, 0, 0, 0, 0, 0 }, 
-												{0, 0, 0, 0, 0, 0, 0, 0, 0, 0 }, 
+												{0, 0, 1, 1, 0, 0, 0, 0, 0, 0 }, 
 												{0, 0, 0, 0, 0, 0, 0, 3, 0, 0 }, 			
 												{0, 0, 0, 0, 0, 0, 0, 0, 0, 0 }				
 												
 										  };
 										  
+		t2 = new ushort[10, 10] { 
+			{1, 1, 1, 1, 1, 0, 0, 0, 0, 0 }, 
+			{1, 1, 0, 1, 1, 1, 0, 0, 0, 0 }, 
+			{0, 0, 3, 3, 3, 0, 0, 0, 0, 0 }, 
+			{0, 3, 0, 0, 0, 0, 0, 0, 0, 0 }, 
+			{0, 0, 0, 0, 0, 1, 0, 0, 0, 0 }, 
+			{0, 0, 1, 1, 2, 0, 0, 0, 0, 0 }, 
+			{0, 0, 2, 2, 0, 0, 0, 0, 0, 0 }, 
+			{0, 0, 1, 1, 0, 0, 0, 0, 0, 0 }, 
+			{0, 0, 0, 0, 0, 0, 0, 3, 0, 0 }, 			
+			{0, 0, 0, 0, 0, 0, 0, 0, 0, 0 }				
+			
+		};								
+										 
+										  
 										
-		BuildTilemap(tileMap);	
+		BuildLevel(Global.Level);
 	}
 	
-	
-	public void BuildTilemap(ushort[,] tilemap)
+	public void BuildLevel(int level)
+	{
+		Debug.Log ("building tilemap");
+		switch (level)
+		{
+			case 0:
+				BuildTilemap(t1);
+				current = t1;
+				break;
+		case 1:
+			BuildTilemap(t2);
+			current = t2;
+			break;
+		case 2:
+			BuildTilemap(t3);
+			current = t3;
+			break;
+		case 3:
+			BuildTilemap(t4);
+			current = t4;
+			break;
+		case 4:
+			BuildTilemap(t5);
+			current = t5;
+			break;
+			
+		}
+	}
+	private void BuildTilemap(ushort[,] tilemap)
 	{
 		for (int y = 0; y < tilemap.GetLength(1); y++)
 		{
@@ -94,7 +136,7 @@ public class Tiles : MonoBehaviour
 		//should bounds check here
 		try
 		{
-			return tileMap[location.Y, location.X];
+			return current[location.Y, location.X];
 		}
 		catch (IndexOutOfRangeException e)
 		{

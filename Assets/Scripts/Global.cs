@@ -9,7 +9,19 @@ public class Global
 	private static Tiles tiles;
 	private static Trader player;
 	private static GoldInterface gold;
-
+	private static HealthInterface health;
+	private static int level = 0;
+	
+	private static int goldFromLast;
+	private static int goldForNext = 0;
+	public static HealthInterface Health {
+		get {
+			if (health == null)
+				health = GameObject.Find ("Health").GetComponent<HealthInterface>();
+			return health;
+		}
+	}
+	
 	public static GoldInterface Gold {
 		get {
 			if (gold == null)
@@ -39,6 +51,40 @@ public class Global
 	public static ushort TILE_SIZE {
 		get {
 			return tILE_SIZE;
+		}
+	}
+
+	public static int Level {
+		get {
+			return level;
+		}
+		set { level = value; }
+	}
+	
+	public static void EndLevel(int gold)
+	{
+		Application.LoadLevel("LevelEnd");
+		goldFromLast = gold;
+	}
+
+	public static void InitLevel(int level)
+	{
+		if (tiles == null)
+			tiles = GameObject.Find ("Tiles").GetComponent<Tiles>();
+		tiles.BuildLevel(level);
+	}
+	public static int GoldFromLast {
+		get {
+			return goldFromLast;
+		}
+	}
+
+	public static int GoldForNext {
+		get {
+			return goldForNext;
+		}
+		set {
+			goldForNext = value;
 		}
 	}
 }

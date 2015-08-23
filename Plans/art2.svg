@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 2">
+  <defs
+     id="defs4">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3940">
+      <path
+         d="m -322.54259,412.36218 a 33.978714,21 0 1 1 -67.95743,0 33.978714,21 0 1 1 67.95743,0 z"
+         sodipodi:ry="21"
+         sodipodi:rx="33.978714"
+         sodipodi:cy="412.36218"
+         sodipodi:cx="-356.5213"
+         id="path3942"
+         style="fill:#f6cb21;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="matrix(0.7272481,0.85628625,-0.71934326,0.55956982,0,0)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3963">
+      <path
+         d="m -322.54259,412.36218 a 33.978714,21 0 1 1 -67.95743,0 33.978714,21 0 1 1 67.95743,0 z"
+         sodipodi:ry="21"
+         sodipodi:rx="33.978714"
+         sodipodi:cy="412.36218"
+         sodipodi:cx="-356.5213"
+         id="path3965"
+         style="fill:#f6cb21;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="matrix(1,0,0.65648854,1.1962346,0,0)" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="-98.444568"
+     inkscape:cy="776.7466"
+     inkscape:document-units="pt"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="pt"
+     showborder="false"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="matrix(1.1868066,0,0,1.1868066,116.78862,-95.736468)"
+       id="g3983">
+      <path
+         sodipodi:nodetypes="cscccc"
+         inkscape:connector-curvature="0"
+         id="path3985"
+         d="m -322.36581,418.56624 c 0,11.59798 -15.21279,21 -33.97871,21 -18.76593,0 -33.97872,-9.40202 -33.97872,-21 l 0.0771,-4.06954 67.79175,-2.28464 z"
+         style="fill:#e8bb09;fill-opacity:1;stroke:none" />
+      <path
+         d="m -322.54259,412.36218 c 0,11.59798 -15.21279,21 -33.97871,21 -18.76593,0 -33.97872,-9.40202 -33.97872,-21 0,-11.59798 15.21279,-21 33.97872,-21 18.76592,0 33.97871,9.40202 33.97871,21 z"
+         sodipodi:ry="21"
+         sodipodi:rx="33.978714"
+         sodipodi:cy="412.36218"
+         sodipodi:cx="-356.5213"
+         id="path3987"
+         style="fill:#f6cb21;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <rect
+         clip-path="url(#clipPath3940)"
+         transform="matrix(0.54703729,-0.83710824,0.70323233,0.71096012,0,0)"
+         y="-78.048073"
+         x="-591.63373"
+         height="7.5"
+         width="73.649506"
+         id="rect3989"
+         style="fill:#ffffff;fill-opacity:0.4095745;stroke:none" />
+      <rect
+         clip-path="url(#clipPath3963)"
+         transform="matrix(1,0,-0.54879582,0.83595643,0,0)"
+         y="447.3764"
+         x="-96.106689"
+         height="78.353363"
+         width="3.625"
+         id="rect3991"
+         style="fill:#ffffff;fill-opacity:0.4095745;stroke:none" />
+    </g>
+    <g
+       id="g3967">
+      <path
+         sodipodi:nodetypes="cscccc"
+         inkscape:connector-curvature="0"
+         id="path3933"
+         d="m -322.36581,418.56624 c 0,11.59798 -15.21279,21 -33.97871,21 -18.76593,0 -33.97872,-9.40202 -33.97872,-21 l 0.0771,-4.06954 67.79175,-2.28464 z"
+         style="fill:#e8bb09;fill-opacity:1;stroke:none" />
+      <path
+         d="m -322.54259,412.36218 a 33.978714,21 0 1 1 -67.95743,0 33.978714,21 0 1 1 67.95743,0 z"
+         sodipodi:ry="21"
+         sodipodi:rx="33.978714"
+         sodipodi:cy="412.36218"
+         sodipodi:cx="-356.5213"
+         id="path3136"
+         style="fill:#f6cb21;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <rect
+         clip-path="url(#clipPath3940)"
+         transform="matrix(0.54703729,-0.83710824,0.70323233,0.71096012,0,0)"
+         y="-78.048073"
+         x="-591.63373"
+         height="7.5"
+         width="73.649506"
+         id="rect3936"
+         style="fill:#ffffff;fill-opacity:0.40957448;stroke:none" />
+      <rect
+         clip-path="url(#clipPath3963)"
+         transform="matrix(1,0,-0.54879582,0.83595643,0,0)"
+         y="447.3764"
+         x="-96.106689"
+         height="78.353363"
+         width="3.625"
+         id="rect3959"
+         style="fill:#ffffff;fill-opacity:0.4095745;stroke:none" />
+    </g>
+    <g
+       id="g3973"
+       transform="translate(43.84062,16.970563)">
+      <path
+         style="fill:#e8bb09;fill-opacity:1;stroke:none"
+         d="m -322.36581,418.56624 c 0,11.59798 -15.21279,21 -33.97871,21 -18.76593,0 -33.97872,-9.40202 -33.97872,-21 l 0.0771,-4.06954 67.79175,-2.28464 z"
+         id="path3975"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cscccc" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#f6cb21;fill-opacity:1;stroke:none"
+         id="path3977"
+         sodipodi:cx="-356.5213"
+         sodipodi:cy="412.36218"
+         sodipodi:rx="33.978714"
+         sodipodi:ry="21"
+         d="m -322.54259,412.36218 c 0,11.59798 -15.21279,21 -33.97871,21 -18.76593,0 -33.97872,-9.40202 -33.97872,-21 0,-11.59798 15.21279,-21 33.97872,-21 18.76592,0 33.97871,9.40202 33.97871,21 z" />
+      <rect
+         style="fill:#ffffff;fill-opacity:0.4095745;stroke:none"
+         id="rect3979"
+         width="73.649506"
+         height="7.5"
+         x="-591.63373"
+         y="-78.048073"
+         transform="matrix(0.54703729,-0.83710824,0.70323233,0.71096012,0,0)"
+         clip-path="url(#clipPath3940)" />
+      <rect
+         style="fill:#ffffff;fill-opacity:0.4095745;stroke:none"
+         id="rect3981"
+         width="3.625"
+         height="78.353363"
+         x="-96.106689"
+         y="447.3764"
+         transform="matrix(1,0,-0.54879582,0.83595643,0,0)"
+         clip-path="url(#clipPath3963)" />
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:0;stroke:none"
+       id="rect4006"
+       width="130"
+       height="130"
+       x="-393"
+       y="345.86218"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\UI\gold.png"
+       inkscape:export-xdpi="44.307693"
+       inkscape:export-ydpi="44.307693" />
+    <rect
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       id="rect4008"
+       width="644"
+       height="463"
+       x="-22"
+       y="320.36218" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4014"
+       y="269.36218"
+       x="365"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         y="269.36218"
+         x="365"
+         id="tspan4016"
+         sodipodi:role="line">encounter</tspan></text>
+    <rect
+       y="334.36218"
+       x="-5"
+       height="94"
+       width="605"
+       id="rect4018"
+       style="fill:#bbbbbb;fill-opacity:1;stroke:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4020"
+       y="364.36218"
+       x="3"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#272727;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         y="364.36218"
+         x="3"
+         id="tspan4022"
+         sodipodi:role="line">you encounter a band of dwarves</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#272727;fill-opacity:1;stroke:none"
+       id="path4036"
+       sodipodi:cx="333"
+       sodipodi:cy="513.36218"
+       sodipodi:rx="93"
+       sodipodi:ry="94"
+       d="m 426,513.36218 a 93,94 0 1 1 -186,0 93,94 0 1 1 186,0 z"
+       transform="translate(-44,17)" />
+    <rect
+       style="fill:#bbbbbb;fill-opacity:1;stroke:none"
+       id="rect4038"
+       width="610"
+       height="87"
+       x="-6"
+       y="682.36218" />
+    <text
+       xml:space="preserve"
+       style="font-size:46.188591px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="-2.6290512"
+       y="738.43323"
+       id="text4040"
+       sodipodi:linespacing="125%"
+       transform="scale(1.033837,0.96727044)"><tspan
+         sodipodi:role="line"
+         id="tspan4042"
+         x="-2.6290512"
+         y="738.43323">would you like to</tspan></text>
+    <rect
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       id="rect4044"
+       width="132"
+       height="26"
+       x="18"
+       y="734.36218" />
+    <rect
+       y="734.36218"
+       x="235"
+       height="26"
+       width="132"
+       id="rect4046"
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       id="rect4048"
+       width="132"
+       height="26"
+       x="455"
+       y="734.36218" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="20"
+       y="754.36218"
+       id="text4050"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4052"
+         x="20"
+         y="754.36218">fight</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="244"
+       y="754.36218"
+       id="text4054"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4056"
+         x="244"
+         y="754.36218">trade</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="466"
+       y="756.36218"
+       id="text4058"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4060"
+         x="466"
+         y="756.36218">flee</tspan></text>
+    <rect
+       y="320.36218"
+       x="675"
+       height="463"
+       width="644"
+       id="rect4062"
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#bbbbbb;fill-opacity:1;stroke:none"
+       id="rect4064"
+       width="605"
+       height="94"
+       x="689"
+       y="334.36218" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#272727;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="697"
+       y="364.36218"
+       id="text4066"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4068"
+         x="697"
+         y="364.36218">The dwarves gather around</tspan></text>
+    <rect
+       y="682.36218"
+       x="695"
+       height="87"
+       width="610"
+       id="rect4070"
+       style="fill:#bbbbbb;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       id="rect4088"
+       width="132"
+       height="26"
+       x="918"
+       y="734.36218" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="977"
+       y="754.36218"
+       id="text4090"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4092"
+         x="977"
+         y="754.36218">ok</tspan></text>
+    <rect
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       id="rect4094"
+       width="644"
+       height="463"
+       x="1400"
+       y="320.36218" />
+    <rect
+       y="334.36218"
+       x="1414"
+       height="94"
+       width="605"
+       id="rect4096"
+       style="fill:#bbbbbb;fill-opacity:1;stroke:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4098"
+       y="364.36218"
+       x="1422"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#272727;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         y="364.36218"
+         x="1422"
+         id="tspan4100"
+         sodipodi:role="line">The dwarves pull out their swords and the</tspan><tspan
+         y="404.36218"
+         x="1422"
+         sodipodi:role="line"
+         id="tspan4110">fight begins</tspan></text>
+    <rect
+       style="fill:#bbbbbb;fill-opacity:1;stroke:none"
+       id="rect4102"
+       width="610"
+       height="87"
+       x="1420"
+       y="682.36218" />
+    <rect
+       y="734.36218"
+       x="1643"
+       height="26"
+       width="132"
+       id="rect4104"
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4106"
+       y="754.36218"
+       x="1702"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"><tspan
+         y="754.36218"
+         x="1702"
+         id="tspan4108"
+         sodipodi:role="line">ok</tspan></text>
+    <rect
+       style="fill:#e1500b;fill-opacity:1;stroke:none"
+       id="rect4112"
+       width="35"
+       height="105.5"
+       x="-348.5"
+       y="240.36218"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\UI\health.png"
+       inkscape:export-xdpi="54.597157"
+       inkscape:export-ydpi="54.597157" />
+    <rect
+       y="278.25"
+       x="275.61218"
+       height="105.5"
+       width="35"
+       id="rect4114"
+       style="fill:#e1500b;fill-opacity:1;stroke:none"
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\UI\health.png"
+       inkscape:export-xdpi="54.597157"
+       inkscape:export-ydpi="54.597157" />
+    <rect
+       style="fill:#1a3d52;fill-opacity:1;stroke:none"
+       id="rect4116"
+       width="317"
+       height="175"
+       x="-176.5"
+       y="43.862183" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path4118"
+       sodipodi:cx="-120.25"
+       sodipodi:cy="138.61218"
+       sodipodi:rx="23.75"
+       sodipodi:ry="23.75"
+       d="m -96.5,138.61218 a 23.75,23.75 0 1 1 -47.5,0 23.75,23.75 0 1 1 47.5,0 z"
+       transform="translate(-146.5,-21)"
+       inkscape:export-filename="E:\Projects\MonsterTrader\Assets\Sprites\circle.png"
+       inkscape:export-xdpi="121.26316"
+       inkscape:export-ydpi="121.26316" />
+  </g>
+</svg>

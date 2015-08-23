@@ -13,16 +13,16 @@ public class Store
 	public Store ()
 	{
 		Debug.Log ("cons called");
-		AbstractItem item = Catalog.RandomItem();
+		AbstractItem item = Catalog.RandomItem(Global.Level);
 		forSale = new List<Item>();	
 		
 		forSale.Add(new Item(item.Name, Random.Range(1, 5), Random.Range(item.PriceRange.X, item.PriceRange.Y)));
 		
-		item = Catalog.RandomItem();
+		item = Catalog.RandomItem(Global.Level);
 		forSale.Add(new Item(item.Name, Random.Range(1, 5), Random.Range(item.PriceRange.X, item.PriceRange.Y)));
 		
 		buying = new List<Item>();
-		item = Catalog.RandomItem();
+		item = Catalog.RandomItem(Global.Level);
 		buying.Add(new Item(item.Name, 0, Random.Range(item.PriceRange.X, item.PriceRange.Y)));
 	}
 	
