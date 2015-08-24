@@ -10,6 +10,8 @@ public class Catalog : MonoBehaviour
 	private static List<Material> metals, woods, leathers;
 	private static int variance = 30;
 	private static List<ItemType> metalItems, woodenItems, leatherItems;
+	
+	private static Dictionary<string, AbstractItem> specialItems;
 	public static void Init()
 	{
 		initialized = true;
@@ -29,7 +31,7 @@ public class Catalog : MonoBehaviour
 		woods.Add (new Material("Hickory", 1.5m));
 		woods.Add (new Material("Mirkwood", 3m));
 		woods.Add (new Material("Rockwood", 6m));
-		woods.Add (new Material("Draedic", 10m));
+		woods.Add (new Material("Dragon", 10m));
 		
 		metalItems = new List<ItemType>();
 		metalItems.Add(new ItemType("Sword", 50));
@@ -41,9 +43,26 @@ public class Catalog : MonoBehaviour
 		woodenItems.Add(new ItemType("Bow", 50));
 		woodenItems.Add(new ItemType("Staff", 70));
 		woodenItems.Add(new ItemType("Arrows", 40));
-		woodenItems.Add(new ItemType("Armor", 60));
 		
 		
+		
+		
+		specialItems = new Dictionary<string, AbstractItem>();
+		specialItems.Add("Dwarf", new AbstractItem("Dwarven Forge of Persistance", new Pair(300, 500)));
+		specialItems.Add ("Wood Elf", new AbstractItem("Ranger's Bow", new Pair(200, 400)));
+		specialItems.Add ("Druid", new AbstractItem("Druidic Essence of Nature", new Pair(300, 500)));
+		specialItems.Add ("Dryad", new AbstractItem("Magic Tree Seeds", new Pair(300, 600)));
+		specialItems.Add ("Troll", new AbstractItem("Fearsome Troll's Club", new Pair(200, 600)));	
+		specialItems.Add ("Human", new AbstractItem("Filled to the brim Treasure Chest", new Pair(200, 600)));	
+		specialItems.Add ("Mermaid", new AbstractItem("Mermaid's Tiara", new Pair(400, 800)));
+		specialItems.Add ("Snake", new AbstractItem("Snake's Tooth", new Pair(200, 300)));
+		specialItems.Add ("Key", new AbstractItem("Mysterious Key", new Pair(200, 300)));
+		
+	}
+	
+	public static AbstractItem SpecialItem(string key)
+	{
+		return specialItems[key];
 	}
 	public static AbstractItem RandomMetalItem(int level)
 	{
@@ -74,13 +93,13 @@ public class Catalog : MonoBehaviour
 		if (!initialized)
 			Init ();
 		float levelRoll = Random.value;
-		if (levelRoll < .1f)
+		if (levelRoll < .2f)
 		{
 			level--;
 			if (level < 0)
 				level = 0;
 		}
-		else if (levelRoll > .9f)
+		else if (levelRoll > .8f)
 		{
 			level++;
 			if (level > 4)

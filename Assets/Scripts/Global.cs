@@ -39,6 +39,10 @@ public class Global
 			return player;
 		}
 	}
+	public static void SetPlayerLoc(int x, int y)
+	{
+		Player.Respawn(x, y);
+	}
 	
 	public static Tiles Tiles {
 		get {

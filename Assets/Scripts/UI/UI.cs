@@ -9,6 +9,8 @@ public class UI : MonoBehaviour
 	private static GameObject tradeMessage;
 	private static GameObject inventoryWindow;
 	private static GameObject encounterWindow;
+	private static GameObject goodDealHelp;
+	
 	private static bool tradeMessageUp;
 	private static bool hasReferences = false;
 	
@@ -42,12 +44,19 @@ public class UI : MonoBehaviour
 		tradeMessage = transform.FindChild("TradeMessage").gameObject;
 		inventoryWindow = transform.FindChild("InventoryWindow").gameObject;
 		encounterWindow = transform.FindChild("Encounter").gameObject;
+		goodDealHelp = transform.FindChild("GoodDealHelp").gameObject;
 		Debug.Log (inventoryWindow);
 		SetTradeMessageVis(false);
 		SetTradeWindowVis(false);
 		SetInventoryWindowVis(false);
 		SetEncounterWindowVis(false);
+		SetGoodDealVis(false);
 		hasReferences = true;
+	}
+	
+	public static void SetGoodDealVis(bool target)
+	{
+		goodDealHelp.SetActive(target);
 	}
 	public static void SetTradeMessageVis(bool target)
 	{

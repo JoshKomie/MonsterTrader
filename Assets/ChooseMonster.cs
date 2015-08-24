@@ -6,6 +6,11 @@ using System.Collections.Generic;
 public class ChooseMonster : MonoBehaviour 
 {
 	private AsyncOperation a;
+	public Slider s;
+	public void Start()
+	{
+		s.gameObject.SetActive(false);
+	}
 	public void Begin()
 	{
 		StartCoroutine("load");
@@ -24,7 +29,10 @@ public class ChooseMonster : MonoBehaviour
 	public void Update()
 	{
 		if (a != null)
-			Debug.Log (a.progress);
+		{
+			s.gameObject.SetActive(true);
+			s.value = a.progress;
+		}
 		
 	}
 }

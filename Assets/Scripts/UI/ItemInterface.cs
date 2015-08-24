@@ -8,7 +8,7 @@ public class ItemInterface : MonoBehaviour
 	private Item item;
 	private ushort index;
 	private TradeWindow parentWindow;
-	private Text name, quantity, price;
+	private Text name, quantity, price, priceRange;
 	public void Init(Item item, ushort index, TradeWindow parentWindow)
 	{
 		this.item = item;
@@ -22,6 +22,13 @@ public class ItemInterface : MonoBehaviour
 		}
 		
 		price = transform.FindChild("Price").GetComponent<Text>();
+		
+		Transform t = transform.FindChild("PriceRange");
+		if (t != null)
+		{
+			priceRange = t.GetComponent<Text>();
+		}
+		
 		updateText();
 		this.index = index;
 	}
@@ -36,6 +43,7 @@ public class ItemInterface : MonoBehaviour
 		else
 		{
 			Debug.Log ("not enough gold");
+			GlobalSound.Play(SOUNDS.NEGATIVE);
 		}
 		
 		
@@ -51,6 +59,7 @@ public class ItemInterface : MonoBehaviour
 		else
 		{
 			Debug.Log ("player doesnt have item");
+			GlobalSound.Play(SOUNDS.NEGATIVE);
 		}
 	}
 	
@@ -63,5 +72,11 @@ public class ItemInterface : MonoBehaviour
 		}
 		
 		price.text = item.Price.ToString();
+		if (priceRange != null)
+		{
+			Debug.Log (item.GoodDeal);
+			priceRange.text = item.GoodDeal.ToString();
+		}
+		
 	}
 }

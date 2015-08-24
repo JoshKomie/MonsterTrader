@@ -8,11 +8,15 @@ public class Item
 	private string name;
 	private int quantity;
 	private int price;
-	public Item (string name, int quantity, int price)
+	private bool rare;
+	private float goodDeal;
+	public Item (string name, int quantity, int price, float goodDeal = .5f, bool rare = false)
 	{
 		this.name = name;
 		this.quantity = quantity;
 		this.price = price;
+		this.rare = rare;
+		this.goodDeal = goodDeal;
 	}
 	
 	public Item(Item old)
@@ -20,6 +24,8 @@ public class Item
 		name = old.name;
 		quantity = old.quantity;
 		price = old.price;
+		rare = old.rare;
+		goodDeal = old.goodDeal;
 	}
 	
 	public override bool Equals (object obj)
@@ -31,12 +37,13 @@ public class Item
 		if (obj.GetType () != typeof(Item))
 			return false;
 		Item other = (Item)obj;
-		return name == other.name && price == other.price;
+		return (name == other.name && price == other.price);
 	}
 	
 	public bool EqualsByName(Item item)
 	{
-		return name == item.name;
+		Debug.Log (item.rare.ToString() +  rare.ToString());
+		return name == item.name || (item.rare && rare);
 	}
 	
 
@@ -72,4 +79,16 @@ public class Item
 			return this.price;
 		}
 	}	
+
+	public bool Rare {
+		get {
+			return rare;
+		}
+	}
+
+	public float GoodDeal {
+		get {
+			return goodDeal;
+		}
+	}
 }

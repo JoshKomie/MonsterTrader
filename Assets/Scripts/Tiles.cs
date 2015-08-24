@@ -11,17 +11,39 @@ public class Tiles : MonoBehaviour
 	public Sprite Forest;
 	public Sprite Mountains;
 	public Sprite Store;
+	public Sprite Lake;
+	public Sprite Swamp;
+	public Sprite Castle;
+	public Sprite Cave;
+	public Sprite HauntedHouse;
+	
+	
 	#endregion
 	
 	private const ushort tilesize = 1;
 	
 	public const ushort EMPTY = 0;
 	public const ushort FOREST = 1;
-	public const ushort MOUNTAINS = 2;
-	public const ushort STORE = 3;
+	public const ushort PLAYER = 2;
+	public const ushort MOUNTAINS = 3;
+	public const ushort SWAMP = 4;
+	public const ushort LAKE = 5;
+	public const ushort CAVE = 6;
+	public const ushort CASTLE = 11;
+	public const ushort HAUNTED_HOUSE = 12;
+	public const ushort STORE = 20;
 	
 	public const float FOREST_CHANCE = .5f;
 	public const float MOUNTAIN_CHANCE = .3f;
+	public const float LAKE_CHANCE = .3f;
+	public const float CAVE_CHANCE = .6f;
+	public const float SWAMP_CHANCE = .3f;
+	
+	
+			
+	public const float EMPTY_DELAY = .3f;
+	public const float FOREST_DELAY = .8f;
+	public const float MOUNTAIN_DELAY = 1.5f;
 	
 	
 	private Dictionary<Pair, Store> stores;
@@ -57,8 +79,11 @@ public class Tiles : MonoBehaviour
 			
 		};								
 										 
-										  
-										
+		t1 = CSVParse.Parse(CSVmaps.CSV1, 20, 20);								  
+		t2 = CSVParse.Parse(CSVmaps.CSV2, 20, 20);	
+		t3 = CSVParse.Parse(CSVmaps.CSV3, 20, 20);		
+		t4 = CSVParse.Parse(CSVmaps.CSV4, 20, 20);		
+		t5 = CSVParse.Parse(CSVmaps.CSV5, 20, 20);								
 		BuildLevel(Global.Level);
 	}
 	
@@ -100,10 +125,14 @@ public class Tiles : MonoBehaviour
 				
 				GameObject tile = new GameObject();
 				SpriteRenderer s = tile.AddComponent<SpriteRenderer>();
+				//Debug.Log ("tile" + tilemap[y, x]);
 				switch (tilemap[y, x])
 				{
-					
+		
 					case EMPTY:
+						break;
+					case PLAYER:
+						Global.SetPlayerLoc(x, y);
 						break;
 					case FOREST:
 						s.sprite = Forest;
@@ -111,13 +140,38 @@ public class Tiles : MonoBehaviour
 					case MOUNTAINS:
 						s.sprite = Mountains;
 						break;
-					case STORE:
+					case LAKE:
+						s.sprite = Lake;
+						break;
+					case SWAMP:
+						s.sprite = Swamp;
+						break;
+					case CAVE:
+						s.sprite = Cave;
+						break;
+					case CASTLE:
+						s.sprite = Castle;
+						if (stores == null)
+							stores = new Dictionary<Pair, Store>();
+						Debug.Log (x + " " + y);
+						stores.Add(new Pair(x, y), new Store(true));
+	    				  break;
+					case HAUNTED_HOUSE:
+						s.sprite = HauntedHouse;
+							if (stores == null)
+								stores = new Dictionary<Pair, Store>();
+							Debug.Log (x + " " + y);
+						stores.Add(new Pair(x, y), new Store(true));
+		    			  break;
+   					  case STORE:
 						s.sprite = Store;
 						if (stores == null)
 							stores = new Dictionary<Pair, Store>();
 						Debug.Log (x + " " + y);
-						stores.Add(new Pair(x, y), new Store());
+						stores.Add(new Pair(x, y), new Store(true));
 						break;
+					
+					
       
 				}
 				
